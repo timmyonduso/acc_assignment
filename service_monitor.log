@@ -1,0 +1,1851 @@
+2024-05-25 09:48:00,535 - INFO - Scanning services...
+2024-05-25 09:48:07,406 - WARNING - Risky Service Detected: AJRouter
+2024-05-25 09:48:07,407 - WARNING - Service Display Name: AllJoyn Router Service
+2024-05-25 09:48:07,409 - WARNING - Process ID: 0
+2024-05-25 09:48:07,411 - WARNING - Description: Routes AllJoyn messages for the local AllJoyn clients. If this service is stopped the AllJoyn clients that do not have their own bundled routers will be unable to run.
+2024-05-25 09:48:07,411 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+2024-05-25 09:48:07,546 - WARNING - State: Stopped
+2024-05-25 09:48:07,549 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,552 - WARNING - Install Date: None
+2024-05-25 09:48:07,554 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,554 - WARNING - ----------
+2024-05-25 09:48:07,561 - WARNING - Risky Service Detected: ALG
+2024-05-25 09:48:07,562 - WARNING - Service Display Name: Application Layer Gateway Service
+2024-05-25 09:48:07,563 - WARNING - Process ID: 0
+2024-05-25 09:48:07,564 - WARNING - Description: Provides support for 3rd party protocol plug-ins for Internet Connection Sharing
+2024-05-25 09:48:07,564 - WARNING - Executable Path: C:\WINDOWS\System32\alg.exe
+2024-05-25 09:48:07,564 - WARNING - State: Stopped
+2024-05-25 09:48:07,565 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,566 - WARNING - Install Date: None
+2024-05-25 09:48:07,567 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,567 - WARNING - ----------
+2024-05-25 09:48:07,574 - WARNING - Risky Service Detected: AppIDSvc
+2024-05-25 09:48:07,575 - WARNING - Service Display Name: Application Identity
+2024-05-25 09:48:07,576 - WARNING - Process ID: 0
+2024-05-25 09:48:07,577 - WARNING - Description: Determines and verifies the identity of an application. Disabling this service will prevent AppLocker from being enforced.
+2024-05-25 09:48:07,577 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+2024-05-25 09:48:07,577 - WARNING - State: Stopped
+2024-05-25 09:48:07,578 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,579 - WARNING - Install Date: None
+2024-05-25 09:48:07,580 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,580 - WARNING - ----------
+2024-05-25 09:48:07,590 - WARNING - Risky Service Detected: AppMgmt
+2024-05-25 09:48:07,591 - WARNING - Service Display Name: Application Management
+2024-05-25 09:48:07,592 - WARNING - Process ID: 0
+2024-05-25 09:48:07,593 - WARNING - Description: Processes installation, removal, and enumeration requests for software deployed through Group Policy. If the service is disabled, users will be unable to install, remove, or enumerate software deployed through Group Policy. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:07,593 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:07,593 - WARNING - State: Stopped
+2024-05-25 09:48:07,594 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,595 - WARNING - Install Date: None
+2024-05-25 09:48:07,596 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,596 - WARNING - ----------
+2024-05-25 09:48:07,599 - WARNING - Risky Service Detected: AppReadiness
+2024-05-25 09:48:07,600 - WARNING - Service Display Name: App Readiness
+2024-05-25 09:48:07,601 - WARNING - Process ID: 0
+2024-05-25 09:48:07,602 - WARNING - Description: Gets apps ready for use the first time a user signs in to this PC and when adding new apps.
+2024-05-25 09:48:07,602 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k AppReadiness -p
+2024-05-25 09:48:07,602 - WARNING - State: Stopped
+2024-05-25 09:48:07,603 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,604 - WARNING - Install Date: None
+2024-05-25 09:48:07,605 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,661 - WARNING - ----------
+2024-05-25 09:48:07,670 - WARNING - Risky Service Detected: AppVClient
+2024-05-25 09:48:07,671 - WARNING - Service Display Name: Microsoft App-V Client
+2024-05-25 09:48:07,672 - WARNING - Process ID: 0
+2024-05-25 09:48:07,674 - WARNING - Description: Manages App-V users and virtual applications
+2024-05-25 09:48:07,674 - WARNING - Executable Path: C:\WINDOWS\system32\AppVClient.exe
+2024-05-25 09:48:07,674 - WARNING - State: Stopped
+2024-05-25 09:48:07,675 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:07,676 - WARNING - Install Date: None
+2024-05-25 09:48:07,677 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,677 - WARNING - ----------
+2024-05-25 09:48:07,683 - WARNING - Risky Service Detected: AssignedAccessManagerSvc
+2024-05-25 09:48:07,684 - WARNING - Service Display Name: AssignedAccessManager Service
+2024-05-25 09:48:07,685 - WARNING - Process ID: 0
+2024-05-25 09:48:07,686 - WARNING - Description: AssignedAccessManager Service supports kiosk experience in Windows.
+2024-05-25 09:48:07,686 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k AssignedAccessManagerSvc
+2024-05-25 09:48:07,686 - WARNING - State: Stopped
+2024-05-25 09:48:07,687 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,688 - WARNING - Install Date: None
+2024-05-25 09:48:07,689 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,689 - WARNING - ----------
+2024-05-25 09:48:07,699 - WARNING - Risky Service Detected: autotimesvc
+2024-05-25 09:48:07,700 - WARNING - Service Display Name: Cellular Time
+2024-05-25 09:48:07,701 - WARNING - Process ID: 0
+2024-05-25 09:48:07,703 - WARNING - Description: This service sets time based on NITZ messages from a Mobile Network
+2024-05-25 09:48:07,703 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k autoTimeSvc
+2024-05-25 09:48:07,703 - WARNING - State: Stopped
+2024-05-25 09:48:07,704 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,705 - WARNING - Install Date: None
+2024-05-25 09:48:07,706 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,706 - WARNING - ----------
+2024-05-25 09:48:07,713 - WARNING - Risky Service Detected: AxInstSV
+2024-05-25 09:48:07,714 - WARNING - Service Display Name: ActiveX Installer (AxInstSV)
+2024-05-25 09:48:07,715 - WARNING - Process ID: 0
+2024-05-25 09:48:07,716 - WARNING - Description: Provides User Account Control validation for the installation of ActiveX controls from the Internet and enables management of ActiveX control installation based on Group Policy settings. This service is started on demand and if disabled the installation of ActiveX controls will behave according to default browser settings.
+2024-05-25 09:48:07,716 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k AxInstSVGroup
+2024-05-25 09:48:07,716 - WARNING - State: Stopped
+2024-05-25 09:48:07,717 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,718 - WARNING - Install Date: None
+2024-05-25 09:48:07,718 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,718 - WARNING - ----------
+2024-05-25 09:48:07,721 - WARNING - Risky Service Detected: BDESVC
+2024-05-25 09:48:07,722 - WARNING - Service Display Name: BitLocker Drive Encryption Service
+2024-05-25 09:48:07,723 - WARNING - Process ID: 0
+2024-05-25 09:48:07,724 - WARNING - Description: BDESVC hosts the BitLocker Drive Encryption service. BitLocker Drive Encryption provides secure startup for the operating system, as well as full volume encryption for OS, fixed or removable volumes. This service allows BitLocker to prompt users for various actions related to their volumes when mounted, and unlocks volumes automatically without user interaction. Additionally, it stores recovery information to Active Directory, if available, and, if necessary, ensures the most recent recovery certificates are used.  Stopping or disabling the service would prevent users from leveraging this functionality.
+2024-05-25 09:48:07,724 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:07,724 - WARNING - State: Stopped
+2024-05-25 09:48:07,725 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,726 - WARNING - Install Date: None
+2024-05-25 09:48:07,727 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,727 - WARNING - ----------
+2024-05-25 09:48:07,734 - WARNING - Risky Service Detected: BITS
+2024-05-25 09:48:07,735 - WARNING - Service Display Name: Background Intelligent Transfer Service
+2024-05-25 09:48:07,736 - WARNING - Process ID: 0
+2024-05-25 09:48:07,736 - WARNING - Description: Transfers files in the background using idle network bandwidth. If the service is disabled, then any applications that depend on BITS, such as Windows Update or MSN Explorer, will be unable to automatically download programs and other information.
+2024-05-25 09:48:07,737 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:07,737 - WARNING - State: Stopped
+2024-05-25 09:48:07,737 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,738 - WARNING - Install Date: None
+2024-05-25 09:48:07,739 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,739 - WARNING - ----------
+2024-05-25 09:48:07,746 - WARNING - Risky Service Detected: brave
+2024-05-25 09:48:07,748 - WARNING - Service Display Name: Brave Update Service (brave)
+2024-05-25 09:48:07,749 - WARNING - Process ID: 0
+2024-05-25 09:48:07,750 - WARNING - Description: Keeps your BraveSoftware software up to date. If this service is disabled or stopped, your BraveSoftware software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no BraveSoftware software using it.
+2024-05-25 09:48:07,750 - WARNING - Executable Path: "C:\Program Files (x86)\BraveSoftware\Update\BraveUpdate.exe" /svc
+2024-05-25 09:48:07,750 - WARNING - State: Stopped
+2024-05-25 09:48:07,751 - WARNING - Start Mode: Auto
+2024-05-25 09:48:07,752 - WARNING - Install Date: None
+2024-05-25 09:48:07,753 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,753 - WARNING - ----------
+2024-05-25 09:48:07,756 - WARNING - Risky Service Detected: BraveElevationService
+2024-05-25 09:48:07,757 - WARNING - Service Display Name: Brave Elevation Service (BraveElevationService)
+2024-05-25 09:48:07,758 - WARNING - Process ID: 0
+2024-05-25 09:48:07,759 - WARNING - Description: None
+2024-05-25 09:48:07,759 - WARNING - Executable Path: "C:\Program Files\BraveSoftware\Brave-Browser\Application\125.1.66.115\elevation_service.exe"
+2024-05-25 09:48:07,759 - WARNING - State: Stopped
+2024-05-25 09:48:07,760 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,761 - WARNING - Install Date: None
+2024-05-25 09:48:07,763 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,763 - WARNING - ----------
+2024-05-25 09:48:07,766 - WARNING - Risky Service Detected: bravem
+2024-05-25 09:48:07,767 - WARNING - Service Display Name: Brave Update Service (bravem)
+2024-05-25 09:48:07,768 - WARNING - Process ID: 0
+2024-05-25 09:48:07,769 - WARNING - Description: Keeps your BraveSoftware software up to date. If this service is disabled or stopped, your BraveSoftware software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no BraveSoftware software using it.
+2024-05-25 09:48:07,769 - WARNING - Executable Path: "C:\Program Files (x86)\BraveSoftware\Update\BraveUpdate.exe" /medsvc
+2024-05-25 09:48:07,769 - WARNING - State: Stopped
+2024-05-25 09:48:07,770 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,770 - WARNING - Install Date: None
+2024-05-25 09:48:07,771 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,771 - WARNING - ----------
+2024-05-25 09:48:07,798 - WARNING - Risky Service Detected: CertPropSvc
+2024-05-25 09:48:07,799 - WARNING - Service Display Name: Certificate Propagation
+2024-05-25 09:48:07,800 - WARNING - Process ID: 0
+2024-05-25 09:48:07,801 - WARNING - Description: Copies user certificates and root certificates from smart cards into the current user's certificate store, detects when a smart card is inserted into a smart card reader, and, if needed, installs the smart card Plug and Play minidriver.
+2024-05-25 09:48:07,801 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs
+2024-05-25 09:48:07,801 - WARNING - State: Stopped
+2024-05-25 09:48:07,802 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,803 - WARNING - Install Date: None
+2024-05-25 09:48:07,804 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,804 - WARNING - ----------
+2024-05-25 09:48:07,810 - WARNING - Risky Service Detected: cloudidsvc
+2024-05-25 09:48:07,811 - WARNING - Service Display Name: Microsoft Cloud Identity Service
+2024-05-25 09:48:07,812 - WARNING - Process ID: 0
+2024-05-25 09:48:07,813 - WARNING - Description: Supports integrations with Microsoft cloud identity services.  If disabled, tenant restrictions will not be enforced properly.
+2024-05-25 09:48:07,813 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k CloudIdServiceGroup -p
+2024-05-25 09:48:07,813 - WARNING - State: Stopped
+2024-05-25 09:48:07,814 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,815 - WARNING - Install Date: None
+2024-05-25 09:48:07,816 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,816 - WARNING - ----------
+2024-05-25 09:48:07,823 - WARNING - Risky Service Detected: com.docker.service
+2024-05-25 09:48:07,824 - WARNING - Service Display Name: Docker Desktop Service
+2024-05-25 09:48:07,825 - WARNING - Process ID: 0
+2024-05-25 09:48:07,826 - WARNING - Description: None
+2024-05-25 09:48:07,826 - WARNING - Executable Path: "C:\Program Files\Docker\Docker\com.docker.service"
+2024-05-25 09:48:07,826 - WARNING - State: Stopped
+2024-05-25 09:48:07,827 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,828 - WARNING - Install Date: None
+2024-05-25 09:48:07,829 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,829 - WARNING - ----------
+2024-05-25 09:48:07,832 - WARNING - Risky Service Detected: COMSysApp
+2024-05-25 09:48:07,833 - WARNING - Service Display Name: COM+ System Application
+2024-05-25 09:48:07,834 - WARNING - Process ID: 0
+2024-05-25 09:48:07,835 - WARNING - Description: Manages the configuration and tracking of Component Object Model (COM)+-based components. If the service is stopped, most COM+-based components will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:07,835 - WARNING - Executable Path: C:\WINDOWS\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+2024-05-25 09:48:07,835 - WARNING - State: Stopped
+2024-05-25 09:48:07,836 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,837 - WARNING - Install Date: None
+2024-05-25 09:48:07,838 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,838 - WARNING - ----------
+2024-05-25 09:48:07,852 - WARNING - Risky Service Detected: CscService
+2024-05-25 09:48:07,853 - WARNING - Service Display Name: Offline Files
+2024-05-25 09:48:07,854 - WARNING - Process ID: 0
+2024-05-25 09:48:07,855 - WARNING - Description: The Offline Files service performs maintenance activities on the Offline Files cache, responds to user logon and logoff events, implements the internals of the public API, and dispatches interesting events to those interested in Offline Files activities and changes in cache state.
+2024-05-25 09:48:07,855 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:07,855 - WARNING - State: Stopped
+2024-05-25 09:48:07,857 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,858 - WARNING - Install Date: None
+2024-05-25 09:48:07,859 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,859 - WARNING - ----------
+2024-05-25 09:48:07,865 - WARNING - Risky Service Detected: dcsvc
+2024-05-25 09:48:07,866 - WARNING - Service Display Name: Declared Configuration(DC) service
+2024-05-25 09:48:07,867 - WARNING - Process ID: 0
+2024-05-25 09:48:07,868 - WARNING - Description: Process Declared Configuration documents recevied from MDM and other channels and perform configurations on device
+2024-05-25 09:48:07,868 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:07,868 - WARNING - State: Stopped
+2024-05-25 09:48:07,869 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,870 - WARNING - Install Date: None
+2024-05-25 09:48:07,871 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,871 - WARNING - ----------
+2024-05-25 09:48:07,874 - WARNING - Risky Service Detected: defragsvc
+2024-05-25 09:48:07,875 - WARNING - Service Display Name: Optimize drives
+2024-05-25 09:48:07,876 - WARNING - Process ID: 0
+2024-05-25 09:48:07,877 - WARNING - Description: Helps the computer run more efficiently by optimizing files on storage drives.
+2024-05-25 09:48:07,877 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k defragsvc
+2024-05-25 09:48:07,877 - WARNING - State: Stopped
+2024-05-25 09:48:07,878 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,879 - WARNING - Install Date: None
+2024-05-25 09:48:07,880 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,880 - WARNING - ----------
+2024-05-25 09:48:07,889 - WARNING - Risky Service Detected: DeviceInstall
+2024-05-25 09:48:07,891 - WARNING - Service Display Name: Device Install Service
+2024-05-25 09:48:07,892 - WARNING - Process ID: 0
+2024-05-25 09:48:07,893 - WARNING - Description: Enables a computer to recognize and adapt to hardware changes with little or no user input. Stopping or disabling this service will result in system instability.
+2024-05-25 09:48:07,893 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p
+2024-05-25 09:48:07,893 - WARNING - State: Stopped
+2024-05-25 09:48:07,894 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,895 - WARNING - Install Date: None
+2024-05-25 09:48:07,895 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,895 - WARNING - ----------
+2024-05-25 09:48:07,906 - WARNING - Risky Service Detected: diagnosticshub.standardcollector.service
+2024-05-25 09:48:07,907 - WARNING - Service Display Name: Microsoft (R) Diagnostics Hub Standard Collector Service
+2024-05-25 09:48:07,908 - WARNING - Process ID: 0
+2024-05-25 09:48:07,909 - WARNING - Description: Diagnostics Hub Standard Collector Service. When running, this service collects real time ETW events and processes them.
+2024-05-25 09:48:07,909 - WARNING - Executable Path: C:\WINDOWS\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe
+2024-05-25 09:48:07,909 - WARNING - State: Stopped
+2024-05-25 09:48:07,910 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,911 - WARNING - Install Date: None
+2024-05-25 09:48:07,912 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,912 - WARNING - ----------
+2024-05-25 09:48:07,916 - WARNING - Risky Service Detected: diagsvc
+2024-05-25 09:48:07,918 - WARNING - Service Display Name: Diagnostic Execution Service
+2024-05-25 09:48:07,919 - WARNING - Process ID: 0
+2024-05-25 09:48:07,921 - WARNING - Description: Executes diagnostic actions for troubleshooting support
+2024-05-25 09:48:07,922 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k diagnostics
+2024-05-25 09:48:07,922 - WARNING - State: Stopped
+2024-05-25 09:48:07,923 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,924 - WARNING - Install Date: None
+2024-05-25 09:48:07,925 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,925 - WARNING - ----------
+2024-05-25 09:48:07,932 - WARNING - Risky Service Detected: DialogBlockingService
+2024-05-25 09:48:07,933 - WARNING - Service Display Name: DialogBlockingService
+2024-05-25 09:48:07,934 - WARNING - Process ID: 0
+2024-05-25 09:48:07,935 - WARNING - Description: Dialog Blocking Service
+2024-05-25 09:48:07,935 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k DialogBlockingService
+2024-05-25 09:48:07,935 - WARNING - State: Stopped
+2024-05-25 09:48:07,936 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:07,937 - WARNING - Install Date: None
+2024-05-25 09:48:07,938 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,938 - WARNING - ----------
+2024-05-25 09:48:07,952 - WARNING - Risky Service Detected: DmEnrollmentSvc
+2024-05-25 09:48:07,954 - WARNING - Service Display Name: Device Management Enrollment Service
+2024-05-25 09:48:07,955 - WARNING - Process ID: 0
+2024-05-25 09:48:07,957 - WARNING - Description: Performs Device Enrollment Activities for Device Management
+2024-05-25 09:48:07,957 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:07,957 - WARNING - State: Stopped
+2024-05-25 09:48:07,959 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,960 - WARNING - Install Date: None
+2024-05-25 09:48:07,962 - WARNING - Service Type: Own Process
+2024-05-25 09:48:07,962 - WARNING - ----------
+2024-05-25 09:48:07,968 - WARNING - Risky Service Detected: dmwappushservice
+2024-05-25 09:48:07,970 - WARNING - Service Display Name: Device Management Wireless Application Protocol (WAP) Push message Routing Service
+2024-05-25 09:48:07,971 - WARNING - Process ID: 0
+2024-05-25 09:48:07,974 - WARNING - Description: Routes Wireless Application Protocol (WAP) Push messages received by the device and synchronizes Device Management sessions
+2024-05-25 09:48:07,975 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:07,975 - WARNING - State: Stopped
+2024-05-25 09:48:07,977 - WARNING - Start Mode: Manual
+2024-05-25 09:48:07,983 - WARNING - Install Date: None
+2024-05-25 09:48:07,985 - WARNING - Service Type: Share Process
+2024-05-25 09:48:07,985 - WARNING - ----------
+2024-05-25 09:48:07,998 - WARNING - Risky Service Detected: DoSvc
+2024-05-25 09:48:07,999 - WARNING - Service Display Name: Delivery Optimization
+2024-05-25 09:48:08,001 - WARNING - Process ID: 0
+2024-05-25 09:48:08,002 - WARNING - Description: Performs content delivery optimization tasks
+2024-05-25 09:48:08,003 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k NetworkService -p
+2024-05-25 09:48:08,003 - WARNING - State: Stopped
+2024-05-25 09:48:08,004 - WARNING - Start Mode: Auto
+2024-05-25 09:48:08,005 - WARNING - Install Date: None
+2024-05-25 09:48:08,006 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,006 - WARNING - ----------
+2024-05-25 09:48:08,009 - WARNING - Risky Service Detected: dot3svc
+2024-05-25 09:48:08,012 - WARNING - Service Display Name: Wired AutoConfig
+2024-05-25 09:48:08,014 - WARNING - Process ID: 0
+2024-05-25 09:48:08,016 - WARNING - Description: The Wired AutoConfig (DOT3SVC) service is responsible for performing IEEE 802.1X authentication on Ethernet interfaces. If your current wired network deployment enforces 802.1X authentication, the DOT3SVC service should be configured to run for establishing Layer 2 connectivity and/or providing access to network resources. Wired networks that do not enforce 802.1X authentication are unaffected by the DOT3SVC service.
+2024-05-25 09:48:08,016 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:08,016 - WARNING - State: Stopped
+2024-05-25 09:48:08,017 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,018 - WARNING - Install Date: None
+2024-05-25 09:48:08,019 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,019 - WARNING - ----------
+2024-05-25 09:48:08,027 - WARNING - Risky Service Detected: DsmSvc
+2024-05-25 09:48:08,028 - WARNING - Service Display Name: Device Setup Manager
+2024-05-25 09:48:08,028 - WARNING - Process ID: 0
+2024-05-25 09:48:08,029 - WARNING - Description: Enables the detection, download and installation of device-related software. If this service is disabled, devices may be configured with outdated software, and may not work correctly.
+2024-05-25 09:48:08,029 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:08,030 - WARNING - State: Stopped
+2024-05-25 09:48:08,030 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,032 - WARNING - Install Date: None
+2024-05-25 09:48:08,033 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,033 - WARNING - ----------
+2024-05-25 09:48:08,044 - WARNING - Risky Service Detected: EapHost
+2024-05-25 09:48:08,046 - WARNING - Service Display Name: Extensible Authentication Protocol
+2024-05-25 09:48:08,048 - WARNING - Process ID: 0
+2024-05-25 09:48:08,050 - WARNING - Description: The Extensible Authentication Protocol (EAP) service provides network authentication in such scenarios as 802.1x wired and wireless, VPN, and Network Access Protection (NAP).  EAP also provides application programming interfaces (APIs) that are used by network access clients, including wireless and VPN clients, during the authentication process.  If you disable this service, this computer is prevented from accessing networks that require EAP authentication.
+2024-05-25 09:48:08,050 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:08,050 - WARNING - State: Stopped
+2024-05-25 09:48:08,052 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,054 - WARNING - Install Date: None
+2024-05-25 09:48:08,055 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,055 - WARNING - ----------
+2024-05-25 09:48:08,059 - WARNING - Risky Service Detected: edgeupdate
+2024-05-25 09:48:08,060 - WARNING - Service Display Name: Microsoft Edge Update Service (edgeupdate)
+2024-05-25 09:48:08,061 - WARNING - Process ID: 0
+2024-05-25 09:48:08,062 - WARNING - Description: Keeps your Microsoft software up to date. If this service is disabled or stopped, your Microsoft software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Microsoft software using it.
+2024-05-25 09:48:08,063 - WARNING - Executable Path: "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /svc
+2024-05-25 09:48:08,063 - WARNING - State: Stopped
+2024-05-25 09:48:08,064 - WARNING - Start Mode: Auto
+2024-05-25 09:48:08,065 - WARNING - Install Date: None
+2024-05-25 09:48:08,066 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,066 - WARNING - ----------
+2024-05-25 09:48:08,069 - WARNING - Risky Service Detected: edgeupdatem
+2024-05-25 09:48:08,070 - WARNING - Service Display Name: Microsoft Edge Update Service (edgeupdatem)
+2024-05-25 09:48:08,071 - WARNING - Process ID: 0
+2024-05-25 09:48:08,072 - WARNING - Description: Keeps your Microsoft software up to date. If this service is disabled or stopped, your Microsoft software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Microsoft software using it.
+2024-05-25 09:48:08,072 - WARNING - Executable Path: "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /medsvc
+2024-05-25 09:48:08,073 - WARNING - State: Stopped
+2024-05-25 09:48:08,073 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,074 - WARNING - Install Date: None
+2024-05-25 09:48:08,075 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,075 - WARNING - ----------
+2024-05-25 09:48:08,082 - WARNING - Risky Service Detected: embeddedmode
+2024-05-25 09:48:08,083 - WARNING - Service Display Name: Embedded Mode
+2024-05-25 09:48:08,084 - WARNING - Process ID: 0
+2024-05-25 09:48:08,085 - WARNING - Description: The Embedded Mode service enables scenarios related to Background Applications.  Disabling this service will prevent Background Applications from being activated.
+2024-05-25 09:48:08,085 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:08,085 - WARNING - State: Stopped
+2024-05-25 09:48:08,086 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,087 - WARNING - Install Date: None
+2024-05-25 09:48:08,088 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,088 - WARNING - ----------
+2024-05-25 09:48:08,091 - WARNING - Risky Service Detected: EntAppSvc
+2024-05-25 09:48:08,092 - WARNING - Service Display Name: Enterprise App Management Service
+2024-05-25 09:48:08,093 - WARNING - Process ID: 0
+2024-05-25 09:48:08,094 - WARNING - Description: Enables enterprise application management.
+2024-05-25 09:48:08,094 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k appmodel -p
+2024-05-25 09:48:08,094 - WARNING - State: Stopped
+2024-05-25 09:48:08,095 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,096 - WARNING - Install Date: None
+2024-05-25 09:48:08,097 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,097 - WARNING - ----------
+2024-05-25 09:48:08,117 - WARNING - Risky Service Detected: Fax
+2024-05-25 09:48:08,118 - WARNING - Service Display Name: Fax
+2024-05-25 09:48:08,120 - WARNING - Process ID: 0
+2024-05-25 09:48:08,122 - WARNING - Description: Enables you to send and receive faxes, utilizing fax resources available on this computer or on the network.
+2024-05-25 09:48:08,122 - WARNING - Executable Path: C:\WINDOWS\system32\fxssvc.exe
+2024-05-25 09:48:08,122 - WARNING - State: Stopped
+2024-05-25 09:48:08,123 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,124 - WARNING - Install Date: None
+2024-05-25 09:48:08,125 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,125 - WARNING - ----------
+2024-05-25 09:48:08,130 - WARNING - Risky Service Detected: fdPHost
+2024-05-25 09:48:08,132 - WARNING - Service Display Name: Function Discovery Provider Host
+2024-05-25 09:48:08,133 - WARNING - Process ID: 0
+2024-05-25 09:48:08,134 - WARNING - Description: The FDPHOST service hosts the Function Discovery (FD) network discovery providers. These FD providers supply network discovery services for the Simple Services Discovery Protocol (SSDP) and Web Services � Discovery (WS-D) protocol. Stopping or disabling the FDPHOST service will disable network discovery for these protocols when using FD. When this service is unavailable, network services using FD and relying on these discovery protocols will be unable to find network devices or resources.
+2024-05-25 09:48:08,134 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2024-05-25 09:48:08,134 - WARNING - State: Stopped
+2024-05-25 09:48:08,135 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,136 - WARNING - Install Date: None
+2024-05-25 09:48:08,137 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,137 - WARNING - ----------
+2024-05-25 09:48:08,141 - WARNING - Risky Service Detected: FDResPub
+2024-05-25 09:48:08,142 - WARNING - Service Display Name: Function Discovery Resource Publication
+2024-05-25 09:48:08,144 - WARNING - Process ID: 0
+2024-05-25 09:48:08,146 - WARNING - Description: Publishes this computer and resources attached to this computer so they can be discovered over the network.  If this service is stopped, network resources will no longer be published and they will not be discovered by other computers on the network.
+2024-05-25 09:48:08,146 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+2024-05-25 09:48:08,146 - WARNING - State: Stopped
+2024-05-25 09:48:08,147 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,149 - WARNING - Install Date: None
+2024-05-25 09:48:08,150 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,151 - WARNING - ----------
+2024-05-25 09:48:08,154 - WARNING - Risky Service Detected: fhsvc
+2024-05-25 09:48:08,155 - WARNING - Service Display Name: File History Service
+2024-05-25 09:48:08,157 - WARNING - Process ID: 0
+2024-05-25 09:48:08,159 - WARNING - Description: Protects user files from accidental loss by copying them to a backup location
+2024-05-25 09:48:08,159 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:08,159 - WARNING - State: Stopped
+2024-05-25 09:48:08,161 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,162 - WARNING - Install Date: None
+2024-05-25 09:48:08,163 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,163 - WARNING - ----------
+2024-05-25 09:48:08,175 - WARNING - Risky Service Detected: FrameServer
+2024-05-25 09:48:08,176 - WARNING - Service Display Name: Windows Camera Frame Server
+2024-05-25 09:48:08,177 - WARNING - Process ID: 0
+2024-05-25 09:48:08,178 - WARNING - Description: Enables multiple clients to access video frames from camera devices.
+2024-05-25 09:48:08,178 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k Camera
+2024-05-25 09:48:08,178 - WARNING - State: Stopped
+2024-05-25 09:48:08,179 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,180 - WARNING - Install Date: None
+2024-05-25 09:48:08,181 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,181 - WARNING - ----------
+2024-05-25 09:48:08,184 - WARNING - Risky Service Detected: FrameServerMonitor
+2024-05-25 09:48:08,185 - WARNING - Service Display Name: Windows Camera Frame Server Monitor
+2024-05-25 09:48:08,186 - WARNING - Process ID: 0
+2024-05-25 09:48:08,187 - WARNING - Description: Monitors the health and state for the Windows Camera Frame Server service.
+2024-05-25 09:48:08,187 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k CameraMonitor
+2024-05-25 09:48:08,187 - WARNING - State: Stopped
+2024-05-25 09:48:08,188 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,189 - WARNING - Install Date: None
+2024-05-25 09:48:08,190 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,190 - WARNING - ----------
+2024-05-25 09:48:08,193 - WARNING - Risky Service Detected: GameInputSvc
+2024-05-25 09:48:08,194 - WARNING - Service Display Name: GameInput Service
+2024-05-25 09:48:08,196 - WARNING - Process ID: 0
+2024-05-25 09:48:08,197 - WARNING - Description: Enables keyboards, mice, gamepads, and other input devices to be used with the GameInput API.
+2024-05-25 09:48:08,197 - WARNING - Executable Path: C:\WINDOWS\System32\GameInputSvc.exe
+2024-05-25 09:48:08,197 - WARNING - State: Stopped
+2024-05-25 09:48:08,198 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,199 - WARNING - Install Date: None
+2024-05-25 09:48:08,200 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,200 - WARNING - ----------
+2024-05-25 09:48:08,202 - WARNING - Risky Service Detected: gcs
+2024-05-25 09:48:08,203 - WARNING - Service Display Name: Hyper-V Guest Compute Service
+2024-05-25 09:48:08,204 - WARNING - Process ID: 0
+2024-05-25 09:48:08,206 - WARNING - Description: Guest Compute Service for Hyper-V Virtual Machines. This services manages containers in a utility VM.
+2024-05-25 09:48:08,206 - WARNING - Executable Path: C:\WINDOWS\system32\vmcomputeagent.exe
+2024-05-25 09:48:08,207 - WARNING - State: Stopped
+2024-05-25 09:48:08,208 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,209 - WARNING - Install Date: None
+2024-05-25 09:48:08,211 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,211 - WARNING - ----------
+2024-05-25 09:48:08,214 - WARNING - Risky Service Detected: GoogleChromeElevationService
+2024-05-25 09:48:08,215 - WARNING - Service Display Name: Google Chrome Elevation Service (GoogleChromeElevationService)
+2024-05-25 09:48:08,216 - WARNING - Process ID: 0
+2024-05-25 09:48:08,217 - WARNING - Description: None
+2024-05-25 09:48:08,217 - WARNING - Executable Path: "C:\Program Files\Google\Chrome\Application\125.0.6422.77\elevation_service.exe"
+2024-05-25 09:48:08,217 - WARNING - State: Stopped
+2024-05-25 09:48:08,218 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,219 - WARNING - Install Date: None
+2024-05-25 09:48:08,220 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,220 - WARNING - ----------
+2024-05-25 09:48:08,223 - WARNING - Risky Service Detected: GoogleUpdaterInternalService126.0.6425.0
+2024-05-25 09:48:08,224 - WARNING - Service Display Name: GoogleUpdater InternalService 126.0.6425.0 (GoogleUpdaterInternalService126.0.6425.0)
+2024-05-25 09:48:08,225 - WARNING - Process ID: 0
+2024-05-25 09:48:08,226 - WARNING - Description: None
+2024-05-25 09:48:08,226 - WARNING - Executable Path: "C:\Program Files (x86)\Google\GoogleUpdater\126.0.6425.0\updater.exe" --system --windows-service --service=update-internal --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2
+2024-05-25 09:48:08,226 - WARNING - State: Stopped
+2024-05-25 09:48:08,227 - WARNING - Start Mode: Auto
+2024-05-25 09:48:08,228 - WARNING - Install Date: None
+2024-05-25 09:48:08,229 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,229 - WARNING - ----------
+2024-05-25 09:48:08,232 - WARNING - Risky Service Detected: GoogleUpdaterInternalService127.0.6490.0
+2024-05-25 09:48:08,233 - WARNING - Service Display Name: GoogleUpdater InternalService 127.0.6490.0 (GoogleUpdaterInternalService127.0.6490.0)
+2024-05-25 09:48:08,234 - WARNING - Process ID: 0
+2024-05-25 09:48:08,235 - WARNING - Description: None
+2024-05-25 09:48:08,235 - WARNING - Executable Path: "C:\Program Files (x86)\Google\GoogleUpdater\127.0.6490.0\updater.exe" --system --windows-service --service=update-internal
+2024-05-25 09:48:08,235 - WARNING - State: Stopped
+2024-05-25 09:48:08,237 - WARNING - Start Mode: Auto
+2024-05-25 09:48:08,238 - WARNING - Install Date: None
+2024-05-25 09:48:08,239 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,239 - WARNING - ----------
+2024-05-25 09:48:08,242 - WARNING - Risky Service Detected: GoogleUpdaterService126.0.6425.0
+2024-05-25 09:48:08,243 - WARNING - Service Display Name: GoogleUpdater Service 126.0.6425.0 (GoogleUpdaterService126.0.6425.0)
+2024-05-25 09:48:08,244 - WARNING - Process ID: 0
+2024-05-25 09:48:08,245 - WARNING - Description: None
+2024-05-25 09:48:08,245 - WARNING - Executable Path: "C:\Program Files (x86)\Google\GoogleUpdater\126.0.6425.0\updater.exe" --system --windows-service --service=update --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2
+2024-05-25 09:48:08,245 - WARNING - State: Stopped
+2024-05-25 09:48:08,246 - WARNING - Start Mode: Auto
+2024-05-25 09:48:08,246 - WARNING - Install Date: None
+2024-05-25 09:48:08,247 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,247 - WARNING - ----------
+2024-05-25 09:48:08,250 - WARNING - Risky Service Detected: GoogleUpdaterService127.0.6490.0
+2024-05-25 09:48:08,251 - WARNING - Service Display Name: GoogleUpdater Service 127.0.6490.0 (GoogleUpdaterService127.0.6490.0)
+2024-05-25 09:48:08,252 - WARNING - Process ID: 0
+2024-05-25 09:48:08,253 - WARNING - Description: None
+2024-05-25 09:48:08,253 - WARNING - Executable Path: "C:\Program Files (x86)\Google\GoogleUpdater\127.0.6490.0\updater.exe" --system --windows-service --service=update
+2024-05-25 09:48:08,253 - WARNING - State: Stopped
+2024-05-25 09:48:08,254 - WARNING - Start Mode: Auto
+2024-05-25 09:48:08,255 - WARNING - Install Date: None
+2024-05-25 09:48:08,256 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,256 - WARNING - ----------
+2024-05-25 09:48:08,262 - WARNING - Risky Service Detected: GraphicsPerfSvc
+2024-05-25 09:48:08,264 - WARNING - Service Display Name: GraphicsPerfSvc
+2024-05-25 09:48:08,264 - WARNING - Process ID: 0
+2024-05-25 09:48:08,265 - WARNING - Description: Graphics performance monitor service
+2024-05-25 09:48:08,265 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k GraphicsPerfSvcGroup
+2024-05-25 09:48:08,265 - WARNING - State: Stopped
+2024-05-25 09:48:08,266 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,267 - WARNING - Install Date: None
+2024-05-25 09:48:08,268 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,268 - WARNING - ----------
+2024-05-25 09:48:08,275 - WARNING - Risky Service Detected: HfcDisableService
+2024-05-25 09:48:08,277 - WARNING - Service Display Name: Intel(R) RST HFC Disable Service
+2024-05-25 09:48:08,278 - WARNING - Process ID: 0
+2024-05-25 09:48:08,279 - WARNING - Description: Turns off hiberfile caching in Intel(R) RST driver.
+2024-05-25 09:48:08,279 - WARNING - Executable Path: C:\WINDOWS\System32\DriverStore\FileRepository\iastorac.inf_amd64_90dee83819e9ae5b\HfcDisableService.exe
+2024-05-25 09:48:08,279 - WARNING - State: Stopped
+2024-05-25 09:48:08,280 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:08,281 - WARNING - Install Date: None
+2024-05-25 09:48:08,282 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,282 - WARNING - ----------
+2024-05-25 09:48:08,284 - WARNING - Risky Service Detected: HgClientService
+2024-05-25 09:48:08,285 - WARNING - Service Display Name: Host Guardian Client Service
+2024-05-25 09:48:08,287 - WARNING - Process ID: 0
+2024-05-25 09:48:08,289 - WARNING - Description: Provides abstraction of Host Guardian artifacts.
+2024-05-25 09:48:08,289 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:08,289 - WARNING - State: Stopped
+2024-05-25 09:48:08,290 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,291 - WARNING - Install Date: None
+2024-05-25 09:48:08,292 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,292 - WARNING - ----------
+2024-05-25 09:48:08,295 - WARNING - Risky Service Detected: hidserv
+2024-05-25 09:48:08,296 - WARNING - Service Display Name: Human Interface Device Service
+2024-05-25 09:48:08,297 - WARNING - Process ID: 0
+2024-05-25 09:48:08,297 - WARNING - Description: Activates and maintains the use of hot buttons on keyboards, remote controls, and other multimedia devices. It is recommended that you keep this service running.
+2024-05-25 09:48:08,298 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:08,298 - WARNING - State: Stopped
+2024-05-25 09:48:08,298 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,299 - WARNING - Install Date: None
+2024-05-25 09:48:08,300 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,300 - WARNING - ----------
+2024-05-25 09:48:08,331 - WARNING - Risky Service Detected: iaStorAfsService
+2024-05-25 09:48:08,332 - WARNING - Service Display Name: Intel(R) Optane(TM) Memory Service
+2024-05-25 09:48:08,333 - WARNING - Process ID: 0
+2024-05-25 09:48:08,334 - WARNING - Description: Enables amazing system performance and responsiveness by accelerating frequently used files
+2024-05-25 09:48:08,334 - WARNING - Executable Path: C:\WINDOWS\System32\iaStorAfsService.exe
+2024-05-25 09:48:08,334 - WARNING - State: Stopped
+2024-05-25 09:48:08,335 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,336 - WARNING - Install Date: None
+2024-05-25 09:48:08,337 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,337 - WARNING - ----------
+2024-05-25 09:48:08,340 - WARNING - Risky Service Detected: icssvc
+2024-05-25 09:48:08,341 - WARNING - Service Display Name: Windows Mobile Hotspot Service
+2024-05-25 09:48:08,342 - WARNING - Process ID: 0
+2024-05-25 09:48:08,343 - WARNING - Description: Provides the ability to share a cellular data connection with another device.
+2024-05-25 09:48:08,343 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+2024-05-25 09:48:08,343 - WARNING - State: Stopped
+2024-05-25 09:48:08,344 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,345 - WARNING - Install Date: None
+2024-05-25 09:48:08,346 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,346 - WARNING - ----------
+2024-05-25 09:48:08,365 - WARNING - Risky Service Detected: Intel(R) Capability Licensing Service TCP IP Interface
+2024-05-25 09:48:08,366 - WARNING - Service Display Name: Intel(R) Capability Licensing Service TCP IP Interface
+2024-05-25 09:48:08,368 - WARNING - Process ID: 0
+2024-05-25 09:48:08,368 - WARNING - Description: Version: 1.63.1155.2
+2024-05-25 09:48:08,369 - WARNING - Executable Path: C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_183917c66152901d\lib\SocketHeciServer.exe
+2024-05-25 09:48:08,369 - WARNING - State: Stopped
+2024-05-25 09:48:08,369 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,370 - WARNING - Install Date: None
+2024-05-25 09:48:08,372 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,372 - WARNING - ----------
+2024-05-25 09:48:08,376 - WARNING - Risky Service Detected: Intel(R) TPM Provisioning Service
+2024-05-25 09:48:08,377 - WARNING - Service Display Name: Intel(R) TPM Provisioning Service
+2024-05-25 09:48:08,378 - WARNING - Process ID: 0
+2024-05-25 09:48:08,380 - WARNING - Description: Version: 1.63.1155.2
+2024-05-25 09:48:08,380 - WARNING - Executable Path: C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_183917c66152901d\lib\TPMProvisioningService.exe
+2024-05-25 09:48:08,380 - WARNING - State: Stopped
+2024-05-25 09:48:08,380 - WARNING - Start Mode: Auto
+2024-05-25 09:48:08,381 - WARNING - Install Date: None
+2024-05-25 09:48:08,382 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,382 - WARNING - ----------
+2024-05-25 09:48:08,385 - WARNING - Risky Service Detected: IntelAudioService
+2024-05-25 09:48:08,386 - WARNING - Service Display Name: Intel(R) Audio Service
+2024-05-25 09:48:08,387 - WARNING - Process ID: 0
+2024-05-25 09:48:08,388 - WARNING - Description: None
+2024-05-25 09:48:08,388 - WARNING - Executable Path: C:\WINDOWS\System32\DriverStore\FileRepository\intcoed.inf_amd64_943ac983dea9b81b\\AS\\IAS\\IntelAudioService.exe
+2024-05-25 09:48:08,388 - WARNING - State: Stopped
+2024-05-25 09:48:08,389 - WARNING - Start Mode: Auto
+2024-05-25 09:48:08,390 - WARNING - Install Date: None
+2024-05-25 09:48:08,391 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,391 - WARNING - ----------
+2024-05-25 09:48:08,402 - WARNING - Risky Service Detected: IpxlatCfgSvc
+2024-05-25 09:48:08,403 - WARNING - Service Display Name: IP Translation Configuration Service
+2024-05-25 09:48:08,404 - WARNING - Process ID: 0
+2024-05-25 09:48:08,405 - WARNING - Description: Configures and enables translation from v4 to v6 and vice versa
+2024-05-25 09:48:08,405 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:08,405 - WARNING - State: Stopped
+2024-05-25 09:48:08,406 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,407 - WARNING - Install Date: None
+2024-05-25 09:48:08,408 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,408 - WARNING - ----------
+2024-05-25 09:48:08,419 - WARNING - Risky Service Detected: klvssbridge64_21.3
+2024-05-25 09:48:08,420 - WARNING - Service Display Name: Kaspersky Volume Shadow Copy Service Bridge 21.3
+2024-05-25 09:48:08,421 - WARNING - Process ID: 0
+2024-05-25 09:48:08,422 - WARNING - Description: Kaspersky Volume Shadow Copy Service Bridge
+2024-05-25 09:48:08,422 - WARNING - Executable Path: "C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 21.3\x64\vssbridge64.exe"
+2024-05-25 09:48:08,422 - WARNING - State: Stopped
+2024-05-25 09:48:08,423 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,424 - WARNING - Install Date: None
+2024-05-25 09:48:08,425 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,425 - WARNING - ----------
+2024-05-25 09:48:08,436 - WARNING - Risky Service Detected: KtmRm
+2024-05-25 09:48:08,437 - WARNING - Service Display Name: KtmRm for Distributed Transaction Coordinator
+2024-05-25 09:48:08,438 - WARNING - Process ID: 0
+2024-05-25 09:48:08,439 - WARNING - Description: Coordinates transactions between the Distributed Transaction Coordinator (MSDTC) and the Kernel Transaction Manager (KTM). If it is not needed, it is recommended that this service remain stopped. If it is needed, both MSDTC and KTM will start this service automatically. If this service is disabled, any MSDTC transaction interacting with a Kernel Resource Manager will fail and any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:08,439 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k NetworkServiceAndNoImpersonation -p
+2024-05-25 09:48:08,439 - WARNING - State: Stopped
+2024-05-25 09:48:08,440 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,440 - WARNING - Install Date: None
+2024-05-25 09:48:08,442 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,442 - WARNING - ----------
+2024-05-25 09:48:08,459 - WARNING - Risky Service Detected: lltdsvc
+2024-05-25 09:48:08,460 - WARNING - Service Display Name: Link-Layer Topology Discovery Mapper
+2024-05-25 09:48:08,461 - WARNING - Process ID: 0
+2024-05-25 09:48:08,462 - WARNING - Description: Creates a Network Map, consisting of PC and device topology (connectivity) information, and metadata describing each PC and device.  If this service is disabled, the Network Map will not function properly.
+2024-05-25 09:48:08,462 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalService -p
+2024-05-25 09:48:08,462 - WARNING - State: Stopped
+2024-05-25 09:48:08,464 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,465 - WARNING - Install Date: None
+2024-05-25 09:48:08,466 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,466 - WARNING - ----------
+2024-05-25 09:48:08,477 - WARNING - Risky Service Detected: LSM
+2024-05-25 09:48:08,478 - WARNING - Service Display Name: LSM
+2024-05-25 09:48:08,479 - WARNING - Process ID: 1532
+2024-05-25 09:48:08,480 - WARNING - Description: None
+2024-05-25 09:48:08,480 - WARNING - Executable Path: None
+2024-05-25 09:48:08,480 - WARNING - State: Running
+2024-05-25 09:48:08,480 - WARNING - Start Mode: Unknown
+2024-05-25 09:48:08,481 - WARNING - Install Date: None
+2024-05-25 09:48:08,482 - WARNING - Service Type: Unknown
+2024-05-25 09:48:08,482 - WARNING - ----------
+2024-05-25 09:48:08,485 - WARNING - Risky Service Detected: LxpSvc
+2024-05-25 09:48:08,486 - WARNING - Service Display Name: Language Experience Service
+2024-05-25 09:48:08,487 - WARNING - Process ID: 0
+2024-05-25 09:48:08,488 - WARNING - Description: Provides infrastructure support for deploying and configuring localized Windows resources. This service is started on demand and, if disabled, additional Windows languages will not be deployed to the system, and Windows may not function properly.
+2024-05-25 09:48:08,488 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs
+2024-05-25 09:48:08,488 - WARNING - State: Stopped
+2024-05-25 09:48:08,489 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,490 - WARNING - Install Date: None
+2024-05-25 09:48:08,490 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,490 - WARNING - ----------
+2024-05-25 09:48:08,493 - WARNING - Risky Service Detected: LxssManager
+2024-05-25 09:48:08,494 - WARNING - Service Display Name: LxssManager
+2024-05-25 09:48:08,495 - WARNING - Process ID: 0
+2024-05-25 09:48:08,496 - WARNING - Description: The LXSS Manager service supports running native ELF binaries. The service provides the infrastructure necessary for ELF binaries to run on Windows. If the service is stopped or disabled, those binaries will no longer run.
+2024-05-25 09:48:08,496 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:08,496 - WARNING - State: Stopped
+2024-05-25 09:48:08,497 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,498 - WARNING - Install Date: None
+2024-05-25 09:48:08,499 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,499 - WARNING - ----------
+2024-05-25 09:48:08,503 - WARNING - Risky Service Detected: MapsBroker
+2024-05-25 09:48:08,504 - WARNING - Service Display Name: Downloaded Maps Manager
+2024-05-25 09:48:08,505 - WARNING - Process ID: 0
+2024-05-25 09:48:08,506 - WARNING - Description: Windows service for application access to downloaded maps. This service is started on-demand by application accessing downloaded maps. Disabling this service will prevent apps from accessing maps.
+2024-05-25 09:48:08,506 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k NetworkService -p
+2024-05-25 09:48:08,506 - WARNING - State: Stopped
+2024-05-25 09:48:08,507 - WARNING - Start Mode: Auto
+2024-05-25 09:48:08,508 - WARNING - Install Date: None
+2024-05-25 09:48:08,509 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,509 - WARNING - ----------
+2024-05-25 09:48:08,512 - WARNING - Risky Service Detected: McpManagementService
+2024-05-25 09:48:08,513 - WARNING - Service Display Name: McpManagementService
+2024-05-25 09:48:08,514 - WARNING - Process ID: 0
+2024-05-25 09:48:08,515 - WARNING - Description: None
+2024-05-25 09:48:08,515 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k McpManagementServiceGroup
+2024-05-25 09:48:08,515 - WARNING - State: Stopped
+2024-05-25 09:48:08,516 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,517 - WARNING - Install Date: None
+2024-05-25 09:48:08,518 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,518 - WARNING - ----------
+2024-05-25 09:48:08,521 - WARNING - Risky Service Detected: MDCoreSvc
+2024-05-25 09:48:08,522 - WARNING - Service Display Name: Microsoft Defender Core Service
+2024-05-25 09:48:08,523 - WARNING - Process ID: 0
+2024-05-25 09:48:08,524 - WARNING - Description: Monitors the availability, health, and performance of various security components
+2024-05-25 09:48:08,524 - WARNING - Executable Path: "C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24040.4-0\MpDefenderCoreService.exe"
+2024-05-25 09:48:08,524 - WARNING - State: Stopped
+2024-05-25 09:48:08,525 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,526 - WARNING - Install Date: None
+2024-05-25 09:48:08,527 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,527 - WARNING - ----------
+2024-05-25 09:48:08,530 - WARNING - Risky Service Detected: MicrosoftEdgeElevationService
+2024-05-25 09:48:08,531 - WARNING - Service Display Name: Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)
+2024-05-25 09:48:08,532 - WARNING - Process ID: 0
+2024-05-25 09:48:08,533 - WARNING - Description: Keeps Microsoft Edge up to update. If this service is disabled, the application will not be kept up to date.
+2024-05-25 09:48:08,533 - WARNING - Executable Path: "C:\Program Files (x86)\Microsoft\Edge\Application\125.0.2535.51\elevation_service.exe"
+2024-05-25 09:48:08,533 - WARNING - State: Stopped
+2024-05-25 09:48:08,534 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,535 - WARNING - Install Date: None
+2024-05-25 09:48:08,536 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,536 - WARNING - ----------
+2024-05-25 09:48:08,539 - WARNING - Risky Service Detected: MixedRealityOpenXRSvc
+2024-05-25 09:48:08,540 - WARNING - Service Display Name: Windows Mixed Reality OpenXR Service
+2024-05-25 09:48:08,541 - WARNING - Process ID: 0
+2024-05-25 09:48:08,542 - WARNING - Description: Enables Mixed Reality OpenXR runtime functionality
+2024-05-25 09:48:08,542 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:08,542 - WARNING - State: Stopped
+2024-05-25 09:48:08,543 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,544 - WARNING - Install Date: None
+2024-05-25 09:48:08,544 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,545 - WARNING - ----------
+2024-05-25 09:48:08,551 - WARNING - Risky Service Detected: MSDTC
+2024-05-25 09:48:08,552 - WARNING - Service Display Name: Distributed Transaction Coordinator
+2024-05-25 09:48:08,553 - WARNING - Process ID: 0
+2024-05-25 09:48:08,554 - WARNING - Description: Coordinates transactions that span multiple resource managers, such as databases, message queues, and file systems. If this service is stopped, these transactions will fail. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:08,554 - WARNING - Executable Path: C:\WINDOWS\System32\msdtc.exe
+2024-05-25 09:48:08,554 - WARNING - State: Stopped
+2024-05-25 09:48:08,555 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,556 - WARNING - Install Date: None
+2024-05-25 09:48:08,557 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,557 - WARNING - ----------
+2024-05-25 09:48:08,560 - WARNING - Risky Service Detected: MSiSCSI
+2024-05-25 09:48:08,561 - WARNING - Service Display Name: Microsoft iSCSI Initiator Service
+2024-05-25 09:48:08,562 - WARNING - Process ID: 0
+2024-05-25 09:48:08,563 - WARNING - Description: Manages Internet SCSI (iSCSI) sessions from this computer to remote iSCSI target devices. If this service is stopped, this computer will not be able to login or access iSCSI targets. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:08,563 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:08,563 - WARNING - State: Stopped
+2024-05-25 09:48:08,564 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,565 - WARNING - Install Date: None
+2024-05-25 09:48:08,566 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,566 - WARNING - ----------
+2024-05-25 09:48:08,569 - WARNING - Risky Service Detected: msiserver
+2024-05-25 09:48:08,570 - WARNING - Service Display Name: Windows Installer
+2024-05-25 09:48:08,571 - WARNING - Process ID: 0
+2024-05-25 09:48:08,572 - WARNING - Description: Adds, modifies, and removes applications provided as a Windows Installer (*.msi, *.msp) package. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:08,572 - WARNING - Executable Path: C:\WINDOWS\system32\msiexec.exe /V
+2024-05-25 09:48:08,572 - WARNING - State: Stopped
+2024-05-25 09:48:08,573 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,575 - WARNING - Install Date: None
+2024-05-25 09:48:08,575 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,576 - WARNING - ----------
+2024-05-25 09:48:08,578 - WARNING - Risky Service Detected: MsKeyboardFilter
+2024-05-25 09:48:08,579 - WARNING - Service Display Name: Microsoft Keyboard Filter
+2024-05-25 09:48:08,580 - WARNING - Process ID: 0
+2024-05-25 09:48:08,581 - WARNING - Description: Controls keystroke filtering and mapping
+2024-05-25 09:48:08,581 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:08,581 - WARNING - State: Stopped
+2024-05-25 09:48:08,583 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:08,584 - WARNING - Install Date: None
+2024-05-25 09:48:08,585 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,585 - WARNING - ----------
+2024-05-25 09:48:08,587 - WARNING - Risky Service Detected: NaturalAuthentication
+2024-05-25 09:48:08,588 - WARNING - Service Display Name: Natural Authentication
+2024-05-25 09:48:08,589 - WARNING - Process ID: 0
+2024-05-25 09:48:08,590 - WARNING - Description: Signal aggregator service, that evaluates signals based on time, network, geolocation, bluetooth and cdf factors. Supported features are Device Unlock, Dynamic Lock and Dynamo MDM policies
+2024-05-25 09:48:08,590 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:08,590 - WARNING - State: Stopped
+2024-05-25 09:48:08,591 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,592 - WARNING - Install Date: None
+2024-05-25 09:48:08,593 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,593 - WARNING - ----------
+2024-05-25 09:48:08,596 - WARNING - Risky Service Detected: NcaSvc
+2024-05-25 09:48:08,597 - WARNING - Service Display Name: Network Connectivity Assistant
+2024-05-25 09:48:08,598 - WARNING - Process ID: 0
+2024-05-25 09:48:08,599 - WARNING - Description: Provides DirectAccess status notification for UI components
+2024-05-25 09:48:08,599 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k NetSvcs -p
+2024-05-25 09:48:08,599 - WARNING - State: Stopped
+2024-05-25 09:48:08,601 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,602 - WARNING - Install Date: None
+2024-05-25 09:48:08,603 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,603 - WARNING - ----------
+2024-05-25 09:48:08,610 - WARNING - Risky Service Detected: NcdAutoSetup
+2024-05-25 09:48:08,611 - WARNING - Service Display Name: Network Connected Devices Auto-Setup
+2024-05-25 09:48:08,612 - WARNING - Process ID: 0
+2024-05-25 09:48:08,612 - WARNING - Description: Network Connected Devices Auto-Setup service monitors and installs qualified devices that connect to a qualified network. Stopping or disabling this service will prevent Windows from discovering and installing qualified network connected devices automatically. Users can still manually add network connected devices to a PC through the user interface.
+2024-05-25 09:48:08,613 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalServiceNoNetwork -p
+2024-05-25 09:48:08,613 - WARNING - State: Stopped
+2024-05-25 09:48:08,614 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,615 - WARNING - Install Date: None
+2024-05-25 09:48:08,616 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,616 - WARNING - ----------
+2024-05-25 09:48:08,618 - WARNING - Risky Service Detected: Netlogon
+2024-05-25 09:48:08,619 - WARNING - Service Display Name: Netlogon
+2024-05-25 09:48:08,620 - WARNING - Process ID: 0
+2024-05-25 09:48:08,621 - WARNING - Description: Maintains a secure channel between this computer and the domain controller for authenticating users and services. If this service is stopped, the computer may not authenticate users and services and the domain controller cannot register DNS records. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:08,621 - WARNING - Executable Path: C:\WINDOWS\system32\lsass.exe
+2024-05-25 09:48:08,621 - WARNING - State: Stopped
+2024-05-25 09:48:08,622 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,623 - WARNING - Install Date: None
+2024-05-25 09:48:08,624 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,624 - WARNING - ----------
+2024-05-25 09:48:08,635 - WARNING - Risky Service Detected: NetSetupSvc
+2024-05-25 09:48:08,636 - WARNING - Service Display Name: NetSetupSvc
+2024-05-25 09:48:08,637 - WARNING - Process ID: 0
+2024-05-25 09:48:08,638 - WARNING - Description: None
+2024-05-25 09:48:08,638 - WARNING - Executable Path: None
+2024-05-25 09:48:08,638 - WARNING - State: Stopped
+2024-05-25 09:48:08,639 - WARNING - Start Mode: Unknown
+2024-05-25 09:48:08,640 - WARNING - Install Date: None
+2024-05-25 09:48:08,641 - WARNING - Service Type: Unknown
+2024-05-25 09:48:08,641 - WARNING - ----------
+2024-05-25 09:48:08,644 - WARNING - Risky Service Detected: NetTcpPortSharing
+2024-05-25 09:48:08,645 - WARNING - Service Display Name: Net.Tcp Port Sharing Service
+2024-05-25 09:48:08,646 - WARNING - Process ID: 0
+2024-05-25 09:48:08,647 - WARNING - Description: Provides ability to share TCP ports over the net.tcp protocol.
+2024-05-25 09:48:08,647 - WARNING - Executable Path: C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe
+2024-05-25 09:48:08,647 - WARNING - State: Stopped
+2024-05-25 09:48:08,648 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:08,649 - WARNING - Install Date: None
+2024-05-25 09:48:08,650 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,650 - WARNING - ----------
+2024-05-25 09:48:08,661 - WARNING - Risky Service Detected: NlaSvc
+2024-05-25 09:48:08,662 - WARNING - Service Display Name: Network Location Awareness
+2024-05-25 09:48:08,663 - WARNING - Process ID: 0
+2024-05-25 09:48:08,663 - WARNING - Description: Collects and stores configuration information for the network and notifies programs when this information is modified. If this service is stopped, configuration information might be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:08,664 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netprofm -p
+2024-05-25 09:48:08,664 - WARNING - State: Stopped
+2024-05-25 09:48:08,665 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,665 - WARNING - Install Date: None
+2024-05-25 09:48:08,667 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,667 - WARNING - ----------
+2024-05-25 09:48:08,678 - WARNING - Risky Service Detected: ose
+2024-05-25 09:48:08,679 - WARNING - Service Display Name: Office  Source Engine
+2024-05-25 09:48:08,680 - WARNING - Process ID: 0
+2024-05-25 09:48:08,681 - WARNING - Description: Saves installation files used for updates and repairs and is required for the downloading of Setup updates and Watson error reports.
+2024-05-25 09:48:08,681 - WARNING - Executable Path: "C:\Program Files (x86)\Common Files\Microsoft Shared\Source Engine\OSE.EXE"
+2024-05-25 09:48:08,681 - WARNING - State: Stopped
+2024-05-25 09:48:08,682 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,683 - WARNING - Install Date: None
+2024-05-25 09:48:08,684 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,684 - WARNING - ----------
+2024-05-25 09:48:08,687 - WARNING - Risky Service Detected: p2pimsvc
+2024-05-25 09:48:08,688 - WARNING - Service Display Name: Peer Networking Identity Manager
+2024-05-25 09:48:08,688 - WARNING - Process ID: 0
+2024-05-25 09:48:08,689 - WARNING - Description: Provides identity services for the Peer Name Resolution Protocol (PNRP) and Peer-to-Peer Grouping services.  If disabled, the Peer Name Resolution Protocol (PNRP) and Peer-to-Peer Grouping services may not function, and some applications, such as HomeGroup and Remote Assistance, may not function correctly.
+2024-05-25 09:48:08,689 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalServicePeerNet
+2024-05-25 09:48:08,689 - WARNING - State: Stopped
+2024-05-25 09:48:08,691 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,692 - WARNING - Install Date: None
+2024-05-25 09:48:08,693 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,693 - WARNING - ----------
+2024-05-25 09:48:08,696 - WARNING - Risky Service Detected: p2psvc
+2024-05-25 09:48:08,697 - WARNING - Service Display Name: Peer Networking Grouping
+2024-05-25 09:48:08,697 - WARNING - Process ID: 0
+2024-05-25 09:48:08,698 - WARNING - Description: Enables multi-party communication using Peer-to-Peer Grouping.  If disabled, some applications, such as HomeGroup, may not function.
+2024-05-25 09:48:08,698 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalServicePeerNet
+2024-05-25 09:48:08,698 - WARNING - State: Stopped
+2024-05-25 09:48:08,699 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,700 - WARNING - Install Date: None
+2024-05-25 09:48:08,701 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,701 - WARNING - ----------
+2024-05-25 09:48:08,709 - WARNING - Risky Service Detected: PeerDistSvc
+2024-05-25 09:48:08,710 - WARNING - Service Display Name: BranchCache
+2024-05-25 09:48:08,711 - WARNING - Process ID: 0
+2024-05-25 09:48:08,712 - WARNING - Description: This service caches network content from peers on the local subnet.
+2024-05-25 09:48:08,712 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k PeerDist
+2024-05-25 09:48:08,712 - WARNING - State: Stopped
+2024-05-25 09:48:08,713 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,714 - WARNING - Install Date: None
+2024-05-25 09:48:08,714 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,714 - WARNING - ----------
+2024-05-25 09:48:08,717 - WARNING - Risky Service Detected: perceptionsimulation
+2024-05-25 09:48:08,718 - WARNING - Service Display Name: Windows Perception Simulation Service
+2024-05-25 09:48:08,719 - WARNING - Process ID: 0
+2024-05-25 09:48:08,721 - WARNING - Description: Enables spatial perception simulation, virtual camera management and spatial input simulation.
+2024-05-25 09:48:08,721 - WARNING - Executable Path: C:\WINDOWS\system32\PerceptionSimulation\PerceptionSimulationService.exe
+2024-05-25 09:48:08,721 - WARNING - State: Stopped
+2024-05-25 09:48:08,722 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,723 - WARNING - Install Date: None
+2024-05-25 09:48:08,724 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,724 - WARNING - ----------
+2024-05-25 09:48:08,727 - WARNING - Risky Service Detected: PerfHost
+2024-05-25 09:48:08,728 - WARNING - Service Display Name: Performance Counter DLL Host
+2024-05-25 09:48:08,728 - WARNING - Process ID: 0
+2024-05-25 09:48:08,729 - WARNING - Description: Enables remote users and 64-bit processes to query performance counters provided by 32-bit DLLs. If this service is stopped, only local users and 32-bit processes will be able to query performance counters provided by 32-bit DLLs.
+2024-05-25 09:48:08,729 - WARNING - Executable Path: C:\WINDOWS\SysWow64\perfhost.exe
+2024-05-25 09:48:08,729 - WARNING - State: Stopped
+2024-05-25 09:48:08,730 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,731 - WARNING - Install Date: None
+2024-05-25 09:48:08,732 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,732 - WARNING - ----------
+2024-05-25 09:48:08,739 - WARNING - Risky Service Detected: pla
+2024-05-25 09:48:08,740 - WARNING - Service Display Name: Performance Logs & Alerts
+2024-05-25 09:48:08,741 - WARNING - Process ID: 0
+2024-05-25 09:48:08,742 - WARNING - Description: Performance Logs and Alerts Collects performance data from local or remote computers based on preconfigured schedule parameters, then writes the data to a log or triggers an alert. If this service is stopped, performance information will not be collected. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:08,742 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalServiceNoNetwork -p
+2024-05-25 09:48:08,742 - WARNING - State: Stopped
+2024-05-25 09:48:08,743 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,745 - WARNING - Install Date: None
+2024-05-25 09:48:08,746 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,746 - WARNING - ----------
+2024-05-25 09:48:08,752 - WARNING - Risky Service Detected: PNRPAutoReg
+2024-05-25 09:48:08,753 - WARNING - Service Display Name: PNRP Machine Name Publication Service
+2024-05-25 09:48:08,754 - WARNING - Process ID: 0
+2024-05-25 09:48:08,755 - WARNING - Description: This service publishes a machine name using the Peer Name Resolution Protocol.  Configuration is managed via the netsh context 'p2p pnrp peer' 
+2024-05-25 09:48:08,755 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalServicePeerNet
+2024-05-25 09:48:08,755 - WARNING - State: Stopped
+2024-05-25 09:48:08,756 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,757 - WARNING - Install Date: None
+2024-05-25 09:48:08,758 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,758 - WARNING - ----------
+2024-05-25 09:48:08,761 - WARNING - Risky Service Detected: PNRPsvc
+2024-05-25 09:48:08,762 - WARNING - Service Display Name: Peer Name Resolution Protocol
+2024-05-25 09:48:08,763 - WARNING - Process ID: 0
+2024-05-25 09:48:08,764 - WARNING - Description: Enables serverless peer name resolution over the Internet using the Peer Name Resolution Protocol (PNRP). If disabled, some peer-to-peer and collaborative applications, such as Remote Assistance, may not function.
+2024-05-25 09:48:08,764 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalServicePeerNet
+2024-05-25 09:48:08,764 - WARNING - State: Stopped
+2024-05-25 09:48:08,765 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,766 - WARNING - Install Date: None
+2024-05-25 09:48:08,767 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,767 - WARNING - ----------
+2024-05-25 09:48:08,777 - WARNING - Risky Service Detected: PrintNotify
+2024-05-25 09:48:08,778 - WARNING - Service Display Name: Printer Extensions and Notifications
+2024-05-25 09:48:08,779 - WARNING - Process ID: 0
+2024-05-25 09:48:08,779 - WARNING - Description: This service opens custom printer dialog boxes and handles notifications from a remote print server or a printer. If you turn off this service, you won�t be able to see printer extensions or notifications.
+2024-05-25 09:48:08,780 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k print
+2024-05-25 09:48:08,780 - WARNING - State: Stopped
+2024-05-25 09:48:08,780 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,782 - WARNING - Install Date: None
+2024-05-25 09:48:08,783 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,784 - WARNING - ----------
+2024-05-25 09:48:08,790 - WARNING - Risky Service Detected: PushToInstall
+2024-05-25 09:48:08,791 - WARNING - Service Display Name: Windows PushToInstall Service
+2024-05-25 09:48:08,792 - WARNING - Process ID: 0
+2024-05-25 09:48:08,793 - WARNING - Description: Provides infrastructure support for the Microsoft Store.  This service is started automatically and if disabled then remote installations will not function properly.
+2024-05-25 09:48:08,793 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:08,793 - WARNING - State: Stopped
+2024-05-25 09:48:08,794 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,795 - WARNING - Install Date: None
+2024-05-25 09:48:08,796 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,796 - WARNING - ----------
+2024-05-25 09:48:08,801 - WARNING - Risky Service Detected: QWAVE
+2024-05-25 09:48:08,802 - WARNING - Service Display Name: Quality Windows Audio Video Experience
+2024-05-25 09:48:08,803 - WARNING - Process ID: 0
+2024-05-25 09:48:08,804 - WARNING - Description: Quality Windows Audio Video Experience (qWave) is a networking platform for Audio Video (AV) streaming applications on IP home networks. qWave enhances AV streaming performance and reliability by ensuring network quality-of-service (QoS) for AV applications. It provides mechanisms for admission control, run time monitoring and enforcement, application feedback, and traffic prioritization.
+2024-05-25 09:48:08,804 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+2024-05-25 09:48:08,804 - WARNING - State: Stopped
+2024-05-25 09:48:08,805 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,806 - WARNING - Install Date: None
+2024-05-25 09:48:08,807 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,807 - WARNING - ----------
+2024-05-25 09:48:08,810 - WARNING - Risky Service Detected: RasAuto
+2024-05-25 09:48:08,811 - WARNING - Service Display Name: Remote Access Auto Connection Manager
+2024-05-25 09:48:08,812 - WARNING - Process ID: 0
+2024-05-25 09:48:08,813 - WARNING - Description: Creates a connection to a remote network whenever a program references a remote DNS or NetBIOS name or address.
+2024-05-25 09:48:08,813 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:08,813 - WARNING - State: Stopped
+2024-05-25 09:48:08,814 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,815 - WARNING - Install Date: None
+2024-05-25 09:48:08,816 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,816 - WARNING - ----------
+2024-05-25 09:48:08,822 - WARNING - Risky Service Detected: RemoteAccess
+2024-05-25 09:48:08,823 - WARNING - Service Display Name: Routing and Remote Access
+2024-05-25 09:48:08,824 - WARNING - Process ID: 0
+2024-05-25 09:48:08,825 - WARNING - Description: Offers routing services to businesses in local area and wide area network environments.
+2024-05-25 09:48:08,825 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netsvcs
+2024-05-25 09:48:08,825 - WARNING - State: Stopped
+2024-05-25 09:48:08,826 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:08,827 - WARNING - Install Date: None
+2024-05-25 09:48:08,828 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,828 - WARNING - ----------
+2024-05-25 09:48:08,832 - WARNING - Risky Service Detected: RemoteRegistry
+2024-05-25 09:48:08,833 - WARNING - Service Display Name: Remote Registry
+2024-05-25 09:48:08,834 - WARNING - Process ID: 0
+2024-05-25 09:48:08,835 - WARNING - Description: Enables remote users to modify registry settings on this computer. If this service is stopped, the registry can be modified only by users on this computer. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:08,835 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k localService -p
+2024-05-25 09:48:08,835 - WARNING - State: Stopped
+2024-05-25 09:48:08,836 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:08,837 - WARNING - Install Date: None
+2024-05-25 09:48:08,838 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,838 - WARNING - ----------
+2024-05-25 09:48:08,841 - WARNING - Risky Service Detected: RetailDemo
+2024-05-25 09:48:08,842 - WARNING - Service Display Name: Retail Demo Service
+2024-05-25 09:48:08,843 - WARNING - Process ID: 0
+2024-05-25 09:48:08,843 - WARNING - Description: The Retail Demo service controls device activity while the device is in retail demo mode.
+2024-05-25 09:48:08,844 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k rdxgroup
+2024-05-25 09:48:08,844 - WARNING - State: Stopped
+2024-05-25 09:48:08,845 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,845 - WARNING - Install Date: None
+2024-05-25 09:48:08,846 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,846 - WARNING - ----------
+2024-05-25 09:48:08,857 - WARNING - Risky Service Detected: RpcLocator
+2024-05-25 09:48:08,857 - WARNING - Service Display Name: Remote Procedure Call (RPC) Locator
+2024-05-25 09:48:08,858 - WARNING - Process ID: 0
+2024-05-25 09:48:08,860 - WARNING - Description: In Windows 2003 and earlier versions of Windows, the Remote Procedure Call (RPC) Locator service manages the RPC name service database. In Windows Vista and later versions of Windows, this service does not provide any functionality and is present for application compatibility.
+2024-05-25 09:48:08,860 - WARNING - Executable Path: C:\WINDOWS\system32\locator.exe
+2024-05-25 09:48:08,860 - WARNING - State: Stopped
+2024-05-25 09:48:08,861 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,862 - WARNING - Install Date: None
+2024-05-25 09:48:08,862 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,862 - WARNING - ----------
+2024-05-25 09:48:08,890 - WARNING - Risky Service Detected: SCardSvr
+2024-05-25 09:48:08,892 - WARNING - Service Display Name: Smart Card
+2024-05-25 09:48:08,893 - WARNING - Process ID: 0
+2024-05-25 09:48:08,895 - WARNING - Description: Manages access to smart cards read by this computer. If this service is stopped, this computer will be unable to read smart cards. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:08,895 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation
+2024-05-25 09:48:08,895 - WARNING - State: Stopped
+2024-05-25 09:48:08,897 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,899 - WARNING - Install Date: None
+2024-05-25 09:48:08,901 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,901 - WARNING - ----------
+2024-05-25 09:48:08,904 - WARNING - Risky Service Detected: ScDeviceEnum
+2024-05-25 09:48:08,905 - WARNING - Service Display Name: Smart Card Device Enumeration Service
+2024-05-25 09:48:08,907 - WARNING - Process ID: 0
+2024-05-25 09:48:08,908 - WARNING - Description: Creates software device nodes for all smart card readers accessible to a given session. If this service is disabled, WinRT APIs will not be able to enumerate smart card readers.
+2024-05-25 09:48:08,909 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted
+2024-05-25 09:48:08,909 - WARNING - State: Stopped
+2024-05-25 09:48:08,910 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,912 - WARNING - Install Date: None
+2024-05-25 09:48:08,913 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,914 - WARNING - ----------
+2024-05-25 09:48:08,925 - WARNING - Risky Service Detected: SCPolicySvc
+2024-05-25 09:48:08,927 - WARNING - Service Display Name: Smart Card Removal Policy
+2024-05-25 09:48:08,928 - WARNING - Process ID: 0
+2024-05-25 09:48:08,930 - WARNING - Description: Allows the system to be configured to lock the user desktop upon smart card removal.
+2024-05-25 09:48:08,930 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs
+2024-05-25 09:48:08,930 - WARNING - State: Stopped
+2024-05-25 09:48:08,932 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,933 - WARNING - Install Date: None
+2024-05-25 09:48:08,935 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,935 - WARNING - ----------
+2024-05-25 09:48:08,939 - WARNING - Risky Service Detected: SDRSVC
+2024-05-25 09:48:08,941 - WARNING - Service Display Name: Windows Backup
+2024-05-25 09:48:08,943 - WARNING - Process ID: 0
+2024-05-25 09:48:08,944 - WARNING - Description: Provides Windows Backup and Restore capabilities.
+2024-05-25 09:48:08,944 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k SDRSVC
+2024-05-25 09:48:08,944 - WARNING - State: Stopped
+2024-05-25 09:48:08,945 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,947 - WARNING - Install Date: None
+2024-05-25 09:48:08,948 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,948 - WARNING - ----------
+2024-05-25 09:48:08,951 - WARNING - Risky Service Detected: seclogon
+2024-05-25 09:48:08,953 - WARNING - Service Display Name: Secondary Logon
+2024-05-25 09:48:08,955 - WARNING - Process ID: 0
+2024-05-25 09:48:08,956 - WARNING - Description: Enables starting processes under alternate credentials. If this service is stopped, this type of logon access will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:08,957 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:08,957 - WARNING - State: Stopped
+2024-05-25 09:48:08,958 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,961 - WARNING - Install Date: None
+2024-05-25 09:48:08,962 - WARNING - Service Type: Share Process
+2024-05-25 09:48:08,962 - WARNING - ----------
+2024-05-25 09:48:08,977 - WARNING - Risky Service Detected: SEMgrSvc
+2024-05-25 09:48:08,979 - WARNING - Service Display Name: Payments and NFC/SE Manager
+2024-05-25 09:48:08,980 - WARNING - Process ID: 0
+2024-05-25 09:48:08,982 - WARNING - Description: Manages payments and Near Field Communication (NFC) based secure elements.
+2024-05-25 09:48:08,982 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2024-05-25 09:48:08,982 - WARNING - State: Stopped
+2024-05-25 09:48:08,983 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,984 - WARNING - Install Date: None
+2024-05-25 09:48:08,985 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,985 - WARNING - ----------
+2024-05-25 09:48:08,992 - WARNING - Risky Service Detected: Sense
+2024-05-25 09:48:08,992 - WARNING - Service Display Name: Windows Defender Advanced Threat Protection Service
+2024-05-25 09:48:08,993 - WARNING - Process ID: 0
+2024-05-25 09:48:08,994 - WARNING - Description: Windows Defender Advanced Threat Protection service helps protect against advanced threats by monitoring and reporting security events that happen on the computer.
+2024-05-25 09:48:08,995 - WARNING - Executable Path: "C:\Program Files\Windows Defender Advanced Threat Protection\MsSense.exe"
+2024-05-25 09:48:08,995 - WARNING - State: Stopped
+2024-05-25 09:48:08,995 - WARNING - Start Mode: Manual
+2024-05-25 09:48:08,996 - WARNING - Install Date: None
+2024-05-25 09:48:08,998 - WARNING - Service Type: Own Process
+2024-05-25 09:48:08,998 - WARNING - ----------
+2024-05-25 09:48:09,001 - WARNING - Risky Service Detected: SensorDataService
+2024-05-25 09:48:09,002 - WARNING - Service Display Name: Sensor Data Service
+2024-05-25 09:48:09,003 - WARNING - Process ID: 0
+2024-05-25 09:48:09,004 - WARNING - Description: Delivers data from a variety of sensors
+2024-05-25 09:48:09,004 - WARNING - Executable Path: C:\WINDOWS\System32\SensorDataService.exe
+2024-05-25 09:48:09,004 - WARNING - State: Stopped
+2024-05-25 09:48:09,005 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,006 - WARNING - Install Date: None
+2024-05-25 09:48:09,007 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,007 - WARNING - ----------
+2024-05-25 09:48:09,010 - WARNING - Risky Service Detected: SensorService
+2024-05-25 09:48:09,011 - WARNING - Service Display Name: Sensor Service
+2024-05-25 09:48:09,012 - WARNING - Process ID: 0
+2024-05-25 09:48:09,013 - WARNING - Description: A service for sensors that manages different sensors' functionality. Manages Simple Device Orientation (SDO) and History for sensors. Loads the SDO sensor that reports device orientation changes.  If this service is stopped or disabled, the SDO sensor will not be loaded and so auto-rotation will not occur. History collection from Sensors will also be stopped.
+2024-05-25 09:48:09,013 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:09,013 - WARNING - State: Stopped
+2024-05-25 09:48:09,014 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,015 - WARNING - Install Date: None
+2024-05-25 09:48:09,016 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,017 - WARNING - ----------
+2024-05-25 09:48:09,019 - WARNING - Risky Service Detected: SensrSvc
+2024-05-25 09:48:09,020 - WARNING - Service Display Name: Sensor Monitoring Service
+2024-05-25 09:48:09,021 - WARNING - Process ID: 0
+2024-05-25 09:48:09,022 - WARNING - Description: Monitors various sensors in order to expose data and adapt to system and user state.  If this service is stopped or disabled, the display brightness will not adapt to lighting conditions. Stopping this service may affect other system functionality and features as well.
+2024-05-25 09:48:09,022 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+2024-05-25 09:48:09,022 - WARNING - State: Stopped
+2024-05-25 09:48:09,023 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,024 - WARNING - Install Date: None
+2024-05-25 09:48:09,025 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,025 - WARNING - ----------
+2024-05-25 09:48:09,028 - WARNING - Risky Service Detected: SessionEnv
+2024-05-25 09:48:09,029 - WARNING - Service Display Name: Remote Desktop Configuration
+2024-05-25 09:48:09,031 - WARNING - Process ID: 0
+2024-05-25 09:48:09,032 - WARNING - Description: Remote Desktop Configuration service (RDCS) is responsible for all Remote Desktop Services and Remote Desktop related configuration and session maintenance activities that require SYSTEM context. These include per-session temporary folders, RD themes, and RD certificates.
+2024-05-25 09:48:09,032 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:09,032 - WARNING - State: Stopped
+2024-05-25 09:48:09,033 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,034 - WARNING - Install Date: None
+2024-05-25 09:48:09,035 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,035 - WARNING - ----------
+2024-05-25 09:48:09,038 - WARNING - Risky Service Detected: SgrmBroker
+2024-05-25 09:48:09,038 - WARNING - Service Display Name: System Guard Runtime Monitor Broker
+2024-05-25 09:48:09,039 - WARNING - Process ID: 0
+2024-05-25 09:48:09,040 - WARNING - Description: Monitors and attests to the integrity of the Windows platform.
+2024-05-25 09:48:09,040 - WARNING - Executable Path: C:\WINDOWS\system32\Sgrm\SgrmBroker.exe
+2024-05-25 09:48:09,040 - WARNING - State: Stopped
+2024-05-25 09:48:09,041 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:09,042 - WARNING - Install Date: None
+2024-05-25 09:48:09,043 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,043 - WARNING - ----------
+2024-05-25 09:48:09,051 - WARNING - Risky Service Detected: SharedRealitySvc
+2024-05-25 09:48:09,052 - WARNING - Service Display Name: Spatial Data Service
+2024-05-25 09:48:09,053 - WARNING - Process ID: 0
+2024-05-25 09:48:09,054 - WARNING - Description: This service is used for Spatial Perception scenarios
+2024-05-25 09:48:09,054 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2024-05-25 09:48:09,054 - WARNING - State: Stopped
+2024-05-25 09:48:09,055 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,056 - WARNING - Install Date: None
+2024-05-25 09:48:09,057 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,057 - WARNING - ----------
+2024-05-25 09:48:09,064 - WARNING - Risky Service Detected: shpamsvc
+2024-05-25 09:48:09,064 - WARNING - Service Display Name: Shared PC Account Manager
+2024-05-25 09:48:09,065 - WARNING - Process ID: 0
+2024-05-25 09:48:09,066 - WARNING - Description: Manages profiles and accounts on a SharedPC configured device
+2024-05-25 09:48:09,067 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:09,067 - WARNING - State: Stopped
+2024-05-25 09:48:09,067 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:09,068 - WARNING - Install Date: None
+2024-05-25 09:48:09,069 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,069 - WARNING - ----------
+2024-05-25 09:48:09,073 - WARNING - Risky Service Detected: smphost
+2024-05-25 09:48:09,075 - WARNING - Service Display Name: Microsoft Storage Spaces SMP
+2024-05-25 09:48:09,077 - WARNING - Process ID: 0
+2024-05-25 09:48:09,078 - WARNING - Description: Host service for the Microsoft Storage Spaces management provider. If this service is stopped or disabled, Storage Spaces cannot be managed.
+2024-05-25 09:48:09,079 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k smphost
+2024-05-25 09:48:09,079 - WARNING - State: Stopped
+2024-05-25 09:48:09,080 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,080 - WARNING - Install Date: None
+2024-05-25 09:48:09,081 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,081 - WARNING - ----------
+2024-05-25 09:48:09,084 - WARNING - Risky Service Detected: SmsRouter
+2024-05-25 09:48:09,085 - WARNING - Service Display Name: Microsoft Windows SMS Router Service.
+2024-05-25 09:48:09,086 - WARNING - Process ID: 0
+2024-05-25 09:48:09,087 - WARNING - Description: Routes messages based on rules to appropriate clients.
+2024-05-25 09:48:09,087 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+2024-05-25 09:48:09,087 - WARNING - State: Stopped
+2024-05-25 09:48:09,088 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,089 - WARNING - Install Date: None
+2024-05-25 09:48:09,090 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,090 - WARNING - ----------
+2024-05-25 09:48:09,093 - WARNING - Risky Service Detected: SNMPTrap
+2024-05-25 09:48:09,094 - WARNING - Service Display Name: SNMP Trap
+2024-05-25 09:48:09,095 - WARNING - Process ID: 0
+2024-05-25 09:48:09,096 - WARNING - Description: Receives trap messages generated by local or remote Simple Network Management Protocol (SNMP) agents and forwards the messages to SNMP management programs running on this computer. If this service is stopped, SNMP-based programs on this computer will not receive SNMP trap messages. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:09,096 - WARNING - Executable Path: C:\WINDOWS\System32\snmptrap.exe
+2024-05-25 09:48:09,096 - WARNING - State: Stopped
+2024-05-25 09:48:09,097 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,098 - WARNING - Install Date: None
+2024-05-25 09:48:09,099 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,099 - WARNING - ----------
+2024-05-25 09:48:09,102 - WARNING - Risky Service Detected: spectrum
+2024-05-25 09:48:09,103 - WARNING - Service Display Name: Windows Perception Service
+2024-05-25 09:48:09,104 - WARNING - Process ID: 0
+2024-05-25 09:48:09,105 - WARNING - Description: Enables spatial perception, spatial input, and holographic rendering.
+2024-05-25 09:48:09,105 - WARNING - Executable Path: C:\WINDOWS\system32\spectrum.exe
+2024-05-25 09:48:09,105 - WARNING - State: Stopped
+2024-05-25 09:48:09,106 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,106 - WARNING - Install Date: None
+2024-05-25 09:48:09,107 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,108 - WARNING - ----------
+2024-05-25 09:48:09,139 - WARNING - Risky Service Detected: ssh-agent
+2024-05-25 09:48:09,141 - WARNING - Service Display Name: OpenSSH Authentication Agent
+2024-05-25 09:48:09,142 - WARNING - Process ID: 0
+2024-05-25 09:48:09,143 - WARNING - Description: Agent to hold private keys used for public key authentication.
+2024-05-25 09:48:09,143 - WARNING - Executable Path: C:\WINDOWS\System32\OpenSSH\ssh-agent.exe
+2024-05-25 09:48:09,143 - WARNING - State: Stopped
+2024-05-25 09:48:09,144 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:09,145 - WARNING - Install Date: None
+2024-05-25 09:48:09,146 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,146 - WARNING - ----------
+2024-05-25 09:48:09,168 - WARNING - Risky Service Detected: svsvc
+2024-05-25 09:48:09,169 - WARNING - Service Display Name: Spot Verifier
+2024-05-25 09:48:09,170 - WARNING - Process ID: 0
+2024-05-25 09:48:09,172 - WARNING - Description: Verifies potential file system corruptions.
+2024-05-25 09:48:09,172 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:09,172 - WARNING - State: Stopped
+2024-05-25 09:48:09,173 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,175 - WARNING - Install Date: None
+2024-05-25 09:48:09,177 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,177 - WARNING - ----------
+2024-05-25 09:48:09,180 - WARNING - Risky Service Detected: swprv
+2024-05-25 09:48:09,181 - WARNING - Service Display Name: Microsoft Software Shadow Copy Provider
+2024-05-25 09:48:09,182 - WARNING - Process ID: 0
+2024-05-25 09:48:09,183 - WARNING - Description: Manages software-based volume shadow copies taken by the Volume Shadow Copy service. If this service is stopped, software-based volume shadow copies cannot be managed. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:09,183 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k swprv
+2024-05-25 09:48:09,183 - WARNING - State: Stopped
+2024-05-25 09:48:09,184 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,185 - WARNING - Install Date: None
+2024-05-25 09:48:09,186 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,186 - WARNING - ----------
+2024-05-25 09:48:09,204 - WARNING - Risky Service Detected: TermService
+2024-05-25 09:48:09,205 - WARNING - Service Display Name: Remote Desktop Services
+2024-05-25 09:48:09,206 - WARNING - Process ID: 0
+2024-05-25 09:48:09,207 - WARNING - Description: Allows users to connect interactively to a remote computer. Remote Desktop and Remote Desktop Session Host Server depend on this service.  To prevent remote use of this computer, clear the checkboxes on the Remote tab of the System properties control panel item.
+2024-05-25 09:48:09,207 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k NetworkService
+2024-05-25 09:48:09,207 - WARNING - State: Stopped
+2024-05-25 09:48:09,208 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,209 - WARNING - Install Date: None
+2024-05-25 09:48:09,210 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,210 - WARNING - ----------
+2024-05-25 09:48:09,222 - WARNING - Risky Service Detected: TieringEngineService
+2024-05-25 09:48:09,223 - WARNING - Service Display Name: Storage Tiers Management
+2024-05-25 09:48:09,224 - WARNING - Process ID: 0
+2024-05-25 09:48:09,225 - WARNING - Description: Optimizes the placement of data in storage tiers on all tiered storage spaces in the system.
+2024-05-25 09:48:09,225 - WARNING - Executable Path: C:\WINDOWS\system32\TieringEngineService.exe
+2024-05-25 09:48:09,225 - WARNING - State: Stopped
+2024-05-25 09:48:09,226 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,227 - WARNING - Install Date: None
+2024-05-25 09:48:09,227 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,228 - WARNING - ----------
+2024-05-25 09:48:09,244 - WARNING - Risky Service Detected: TroubleshootingSvc
+2024-05-25 09:48:09,245 - WARNING - Service Display Name: Recommended Troubleshooting Service
+2024-05-25 09:48:09,246 - WARNING - Process ID: 0
+2024-05-25 09:48:09,246 - WARNING - Description: Enables automatic mitigation for known problems by applying recommended troubleshooting. If stopped, your device will not get recommended troubleshooting for problems on your device.
+2024-05-25 09:48:09,247 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:09,247 - WARNING - State: Stopped
+2024-05-25 09:48:09,248 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,248 - WARNING - Install Date: None
+2024-05-25 09:48:09,249 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,250 - WARNING - ----------
+2024-05-25 09:48:09,256 - WARNING - Risky Service Detected: tzautoupdate
+2024-05-25 09:48:09,257 - WARNING - Service Display Name: Auto Time Zone Updater
+2024-05-25 09:48:09,258 - WARNING - Process ID: 0
+2024-05-25 09:48:09,259 - WARNING - Description: Automatically sets the system time zone.
+2024-05-25 09:48:09,259 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2024-05-25 09:48:09,259 - WARNING - State: Stopped
+2024-05-25 09:48:09,260 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:09,261 - WARNING - Install Date: None
+2024-05-25 09:48:09,262 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,262 - WARNING - ----------
+2024-05-25 09:48:09,266 - WARNING - Risky Service Detected: UevAgentService
+2024-05-25 09:48:09,267 - WARNING - Service Display Name: User Experience Virtualization Service
+2024-05-25 09:48:09,268 - WARNING - Process ID: 0
+2024-05-25 09:48:09,270 - WARNING - Description: Provides support for application and OS settings roaming
+2024-05-25 09:48:09,270 - WARNING - Executable Path: C:\WINDOWS\system32\AgentService.exe
+2024-05-25 09:48:09,270 - WARNING - State: Stopped
+2024-05-25 09:48:09,271 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:09,273 - WARNING - Install Date: None
+2024-05-25 09:48:09,274 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,274 - WARNING - ----------
+2024-05-25 09:48:09,279 - WARNING - Risky Service Detected: uhssvc
+2024-05-25 09:48:09,280 - WARNING - Service Display Name: Microsoft Update Health Service
+2024-05-25 09:48:09,282 - WARNING - Process ID: 0
+2024-05-25 09:48:09,283 - WARNING - Description: Maintains Update Health
+2024-05-25 09:48:09,283 - WARNING - Executable Path: "C:\Program Files\Microsoft Update Health Tools\uhssvc.exe"
+2024-05-25 09:48:09,283 - WARNING - State: Stopped
+2024-05-25 09:48:09,284 - WARNING - Start Mode: Disabled
+2024-05-25 09:48:09,285 - WARNING - Install Date: None
+2024-05-25 09:48:09,286 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,286 - WARNING - ----------
+2024-05-25 09:48:09,291 - WARNING - Risky Service Detected: UmRdpService
+2024-05-25 09:48:09,292 - WARNING - Service Display Name: Remote Desktop Services UserMode Port Redirector
+2024-05-25 09:48:09,295 - WARNING - Process ID: 0
+2024-05-25 09:48:09,297 - WARNING - Description: Allows the redirection of Printers/Drives/Ports for RDP connections
+2024-05-25 09:48:09,297 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:09,297 - WARNING - State: Stopped
+2024-05-25 09:48:09,299 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,300 - WARNING - Install Date: None
+2024-05-25 09:48:09,302 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,302 - WARNING - ----------
+2024-05-25 09:48:09,306 - WARNING - Risky Service Detected: upnphost
+2024-05-25 09:48:09,308 - WARNING - Service Display Name: UPnP Device Host
+2024-05-25 09:48:09,309 - WARNING - Process ID: 0
+2024-05-25 09:48:09,310 - WARNING - Description: Allows UPnP devices to be hosted on this computer. If this service is stopped, any hosted UPnP devices will stop functioning and no additional hosted devices can be added. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:09,310 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+2024-05-25 09:48:09,310 - WARNING - State: Stopped
+2024-05-25 09:48:09,311 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,313 - WARNING - Install Date: None
+2024-05-25 09:48:09,314 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,314 - WARNING - ----------
+2024-05-25 09:48:09,330 - WARNING - Risky Service Detected: VacSvc
+2024-05-25 09:48:09,331 - WARNING - Service Display Name: Volumetric Audio Compositor Service
+2024-05-25 09:48:09,333 - WARNING - Process ID: 0
+2024-05-25 09:48:09,334 - WARNING - Description: Hosts spatial analysis for Mixed Reality audio simulation.
+2024-05-25 09:48:09,334 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+2024-05-25 09:48:09,334 - WARNING - State: Stopped
+2024-05-25 09:48:09,336 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,338 - WARNING - Install Date: None
+2024-05-25 09:48:09,340 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,340 - WARNING - ----------
+2024-05-25 09:48:09,348 - WARNING - Risky Service Detected: VBoxSDS
+2024-05-25 09:48:09,349 - WARNING - Service Display Name: VirtualBox system service
+2024-05-25 09:48:09,350 - WARNING - Process ID: 0
+2024-05-25 09:48:09,351 - WARNING - Description: Used as a COM server for VirtualBox API.
+2024-05-25 09:48:09,351 - WARNING - Executable Path: "C:\Program Files\Oracle\VirtualBox\VBoxSDS.exe"
+2024-05-25 09:48:09,352 - WARNING - State: Stopped
+2024-05-25 09:48:09,352 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,353 - WARNING - Install Date: None
+2024-05-25 09:48:09,354 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,354 - WARNING - ----------
+2024-05-25 09:48:09,357 - WARNING - Risky Service Detected: vds
+2024-05-25 09:48:09,360 - WARNING - Service Display Name: Virtual Disk
+2024-05-25 09:48:09,364 - WARNING - Process ID: 0
+2024-05-25 09:48:09,366 - WARNING - Description: Provides management services for disks, volumes, file systems, and storage arrays.
+2024-05-25 09:48:09,366 - WARNING - Executable Path: C:\WINDOWS\System32\vds.exe
+2024-05-25 09:48:09,366 - WARNING - State: Stopped
+2024-05-25 09:48:09,368 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,370 - WARNING - Install Date: None
+2024-05-25 09:48:09,372 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,372 - WARNING - ----------
+2024-05-25 09:48:09,380 - WARNING - Risky Service Detected: vmicguestinterface
+2024-05-25 09:48:09,381 - WARNING - Service Display Name: Hyper-V Guest Service Interface
+2024-05-25 09:48:09,382 - WARNING - Process ID: 0
+2024-05-25 09:48:09,384 - WARNING - Description: Provides an interface for the Hyper-V host to interact with specific services running inside the virtual machine.
+2024-05-25 09:48:09,385 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:09,385 - WARNING - State: Stopped
+2024-05-25 09:48:09,386 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,389 - WARNING - Install Date: None
+2024-05-25 09:48:09,391 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,391 - WARNING - ----------
+2024-05-25 09:48:09,393 - WARNING - Risky Service Detected: vmicheartbeat
+2024-05-25 09:48:09,394 - WARNING - Service Display Name: Hyper-V Heartbeat Service
+2024-05-25 09:48:09,395 - WARNING - Process ID: 0
+2024-05-25 09:48:09,396 - WARNING - Description: Monitors the state of this virtual machine by reporting a heartbeat at regular intervals. This service helps you identify running virtual machines that have stopped responding.
+2024-05-25 09:48:09,396 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k ICService -p
+2024-05-25 09:48:09,396 - WARNING - State: Stopped
+2024-05-25 09:48:09,398 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,399 - WARNING - Install Date: None
+2024-05-25 09:48:09,400 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,400 - WARNING - ----------
+2024-05-25 09:48:09,405 - WARNING - Risky Service Detected: vmickvpexchange
+2024-05-25 09:48:09,406 - WARNING - Service Display Name: Hyper-V Data Exchange Service
+2024-05-25 09:48:09,407 - WARNING - Process ID: 0
+2024-05-25 09:48:09,408 - WARNING - Description: Provides a mechanism to exchange data between the virtual machine and the operating system running on the physical computer.
+2024-05-25 09:48:09,408 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:09,408 - WARNING - State: Stopped
+2024-05-25 09:48:09,409 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,410 - WARNING - Install Date: None
+2024-05-25 09:48:09,411 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,411 - WARNING - ----------
+2024-05-25 09:48:09,414 - WARNING - Risky Service Detected: vmicrdv
+2024-05-25 09:48:09,415 - WARNING - Service Display Name: Hyper-V Remote Desktop Virtualization Service
+2024-05-25 09:48:09,416 - WARNING - Process ID: 0
+2024-05-25 09:48:09,417 - WARNING - Description: Provides a platform for communication between the virtual machine and the operating system running on the physical computer.
+2024-05-25 09:48:09,417 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k ICService -p
+2024-05-25 09:48:09,417 - WARNING - State: Stopped
+2024-05-25 09:48:09,418 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,420 - WARNING - Install Date: None
+2024-05-25 09:48:09,421 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,421 - WARNING - ----------
+2024-05-25 09:48:09,424 - WARNING - Risky Service Detected: vmicshutdown
+2024-05-25 09:48:09,425 - WARNING - Service Display Name: Hyper-V Guest Shutdown Service
+2024-05-25 09:48:09,426 - WARNING - Process ID: 0
+2024-05-25 09:48:09,427 - WARNING - Description: Provides a mechanism to shut down the operating system of this virtual machine from the management interfaces on the physical computer.
+2024-05-25 09:48:09,427 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:09,427 - WARNING - State: Stopped
+2024-05-25 09:48:09,428 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,428 - WARNING - Install Date: None
+2024-05-25 09:48:09,429 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,429 - WARNING - ----------
+2024-05-25 09:48:09,434 - WARNING - Risky Service Detected: vmictimesync
+2024-05-25 09:48:09,435 - WARNING - Service Display Name: Hyper-V Time Synchronization Service
+2024-05-25 09:48:09,436 - WARNING - Process ID: 0
+2024-05-25 09:48:09,437 - WARNING - Description: Synchronizes the system time of this virtual machine with the system time of the physical computer.
+2024-05-25 09:48:09,437 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+2024-05-25 09:48:09,437 - WARNING - State: Stopped
+2024-05-25 09:48:09,438 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,440 - WARNING - Install Date: None
+2024-05-25 09:48:09,441 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,441 - WARNING - ----------
+2024-05-25 09:48:09,444 - WARNING - Risky Service Detected: vmicvmsession
+2024-05-25 09:48:09,444 - WARNING - Service Display Name: Hyper-V PowerShell Direct Service
+2024-05-25 09:48:09,445 - WARNING - Process ID: 0
+2024-05-25 09:48:09,446 - WARNING - Description: Provides a mechanism to manage virtual machine with PowerShell via VM session without a virtual network.
+2024-05-25 09:48:09,446 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:09,446 - WARNING - State: Stopped
+2024-05-25 09:48:09,447 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,448 - WARNING - Install Date: None
+2024-05-25 09:48:09,449 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,449 - WARNING - ----------
+2024-05-25 09:48:09,452 - WARNING - Risky Service Detected: vmicvss
+2024-05-25 09:48:09,453 - WARNING - Service Display Name: Hyper-V Volume Shadow Copy Requestor
+2024-05-25 09:48:09,454 - WARNING - Process ID: 0
+2024-05-25 09:48:09,455 - WARNING - Description: Coordinates the communications that are required to use Volume Shadow Copy Service to back up applications and data on this virtual machine from the operating system on the physical computer.
+2024-05-25 09:48:09,455 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:09,455 - WARNING - State: Stopped
+2024-05-25 09:48:09,456 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,457 - WARNING - Install Date: None
+2024-05-25 09:48:09,458 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,458 - WARNING - ----------
+2024-05-25 09:48:09,464 - WARNING - Risky Service Detected: VSS
+2024-05-25 09:48:09,465 - WARNING - Service Display Name: Volume Shadow Copy
+2024-05-25 09:48:09,466 - WARNING - Process ID: 0
+2024-05-25 09:48:09,467 - WARNING - Description: Manages and implements Volume Shadow Copies used for backup and other purposes. If this service is stopped, shadow copies will be unavailable for backup and the backup may fail. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:09,467 - WARNING - Executable Path: C:\WINDOWS\system32\vssvc.exe
+2024-05-25 09:48:09,467 - WARNING - State: Stopped
+2024-05-25 09:48:09,469 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,470 - WARNING - Install Date: None
+2024-05-25 09:48:09,471 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,471 - WARNING - ----------
+2024-05-25 09:48:09,475 - WARNING - Risky Service Detected: W32Time
+2024-05-25 09:48:09,475 - WARNING - Service Display Name: Windows Time
+2024-05-25 09:48:09,476 - WARNING - Process ID: 0
+2024-05-25 09:48:09,477 - WARNING - Description: Maintains date and time synchronization on all clients and servers in the network. If this service is stopped, date and time synchronization will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:09,477 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalService
+2024-05-25 09:48:09,477 - WARNING - State: Stopped
+2024-05-25 09:48:09,478 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,479 - WARNING - Install Date: None
+2024-05-25 09:48:09,480 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,480 - WARNING - ----------
+2024-05-25 09:48:09,483 - WARNING - Risky Service Detected: WaaSMedicSvc
+2024-05-25 09:48:09,484 - WARNING - Service Display Name: WaaSMedicSvc
+2024-05-25 09:48:09,485 - WARNING - Process ID: 0
+2024-05-25 09:48:09,486 - WARNING - Description: None
+2024-05-25 09:48:09,486 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k wusvcs -p
+2024-05-25 09:48:09,486 - WARNING - State: Stopped
+2024-05-25 09:48:09,487 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,488 - WARNING - Install Date: None
+2024-05-25 09:48:09,489 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,489 - WARNING - ----------
+2024-05-25 09:48:09,492 - WARNING - Risky Service Detected: WalletService
+2024-05-25 09:48:09,493 - WARNING - Service Display Name: WalletService
+2024-05-25 09:48:09,494 - WARNING - Process ID: 0
+2024-05-25 09:48:09,495 - WARNING - Description: Hosts objects used by clients of the wallet
+2024-05-25 09:48:09,495 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k appmodel -p
+2024-05-25 09:48:09,495 - WARNING - State: Stopped
+2024-05-25 09:48:09,495 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,496 - WARNING - Install Date: None
+2024-05-25 09:48:09,497 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,497 - WARNING - ----------
+2024-05-25 09:48:09,500 - WARNING - Risky Service Detected: wampapache64
+2024-05-25 09:48:09,501 - WARNING - Service Display Name: wampapache64
+2024-05-25 09:48:09,502 - WARNING - Process ID: 0
+2024-05-25 09:48:09,503 - WARNING - Description: Apache/2.4.54 (Win64) PHP/8.0.26 mod_fcgid/2.3.10-dev
+2024-05-25 09:48:09,503 - WARNING - Executable Path: "c:\wamp64\bin\apache\apache2.4.54.2\bin\httpd.exe" -k runservice
+2024-05-25 09:48:09,503 - WARNING - State: Stopped
+2024-05-25 09:48:09,504 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,506 - WARNING - Install Date: None
+2024-05-25 09:48:09,507 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,507 - WARNING - ----------
+2024-05-25 09:48:09,510 - WARNING - Risky Service Detected: wampmariadb64
+2024-05-25 09:48:09,511 - WARNING - Service Display Name: wampmariadb64
+2024-05-25 09:48:09,512 - WARNING - Process ID: 0
+2024-05-25 09:48:09,513 - WARNING - Description: None
+2024-05-25 09:48:09,513 - WARNING - Executable Path: c:\wamp64\bin\mariadb\mariadb10.10.2\bin\mysqld.exe --defaults-file=c:\wamp64\bin\mariadb\mariadb10.10.2\.\my.ini wampmariadb64
+2024-05-25 09:48:09,513 - WARNING - State: Stopped
+2024-05-25 09:48:09,514 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,515 - WARNING - Install Date: None
+2024-05-25 09:48:09,516 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,516 - WARNING - ----------
+2024-05-25 09:48:09,519 - WARNING - Risky Service Detected: wampmysqld64
+2024-05-25 09:48:09,520 - WARNING - Service Display Name: wampmysqld64
+2024-05-25 09:48:09,521 - WARNING - Process ID: 0
+2024-05-25 09:48:09,522 - WARNING - Description: None
+2024-05-25 09:48:09,522 - WARNING - Executable Path: c:\wamp64\bin\mysql\mysql8.0.31\bin\mysqld.exe wampmysqld64
+2024-05-25 09:48:09,522 - WARNING - State: Stopped
+2024-05-25 09:48:09,523 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,524 - WARNING - Install Date: None
+2024-05-25 09:48:09,525 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,525 - WARNING - ----------
+2024-05-25 09:48:09,527 - WARNING - Risky Service Detected: WarpJITSvc
+2024-05-25 09:48:09,528 - WARNING - Service Display Name: Warp JIT Service
+2024-05-25 09:48:09,529 - WARNING - Process ID: 0
+2024-05-25 09:48:09,530 - WARNING - Description: Enables JIT compilation support in d3d10warp.dll for processes in which code generation is disabled.
+2024-05-25 09:48:09,530 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted
+2024-05-25 09:48:09,530 - WARNING - State: Stopped
+2024-05-25 09:48:09,531 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,532 - WARNING - Install Date: None
+2024-05-25 09:48:09,533 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,533 - WARNING - ----------
+2024-05-25 09:48:09,536 - WARNING - Risky Service Detected: wbengine
+2024-05-25 09:48:09,538 - WARNING - Service Display Name: Block Level Backup Engine Service
+2024-05-25 09:48:09,539 - WARNING - Process ID: 0
+2024-05-25 09:48:09,540 - WARNING - Description: The WBENGINE service is used by Windows Backup to perform backup and recovery operations. If this service is stopped by a user, it may cause the currently running backup or recovery operation to fail. Disabling this service may disable backup and recovery operations using Windows Backup on this computer.
+2024-05-25 09:48:09,540 - WARNING - Executable Path: "C:\WINDOWS\system32\wbengine.exe"
+2024-05-25 09:48:09,540 - WARNING - State: Stopped
+2024-05-25 09:48:09,541 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,542 - WARNING - Install Date: None
+2024-05-25 09:48:09,543 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,543 - WARNING - ----------
+2024-05-25 09:48:09,546 - WARNING - Risky Service Detected: WbioSrvc
+2024-05-25 09:48:09,546 - WARNING - Service Display Name: Windows Biometric Service
+2024-05-25 09:48:09,547 - WARNING - Process ID: 0
+2024-05-25 09:48:09,548 - WARNING - Description: The Windows biometric service gives client applications the ability to capture, compare, manipulate, and store biometric data without gaining direct access to any biometric hardware or samples. The service is hosted in a privileged SVCHOST process.
+2024-05-25 09:48:09,548 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k WbioSvcGroup
+2024-05-25 09:48:09,548 - WARNING - State: Stopped
+2024-05-25 09:48:09,549 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,550 - WARNING - Install Date: None
+2024-05-25 09:48:09,551 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,551 - WARNING - ----------
+2024-05-25 09:48:09,558 - WARNING - Risky Service Detected: wcncsvc
+2024-05-25 09:48:09,558 - WARNING - Service Display Name: Windows Connect Now - Config Registrar
+2024-05-25 09:48:09,559 - WARNING - Process ID: 0
+2024-05-25 09:48:09,560 - WARNING - Description: WCNCSVC hosts the Windows Connect Now Configuration which is Microsoft's Implementation of Wireless Protected Setup (WPS) protocol. This is used to configure Wireless LAN settings for an Access Point (AP) or a Wireless Device. The service is started programmatically as needed.
+2024-05-25 09:48:09,560 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalServiceAndNoImpersonation -p
+2024-05-25 09:48:09,560 - WARNING - State: Stopped
+2024-05-25 09:48:09,561 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,562 - WARNING - Install Date: None
+2024-05-25 09:48:09,563 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,563 - WARNING - ----------
+2024-05-25 09:48:09,566 - WARNING - Risky Service Detected: WdiServiceHost
+2024-05-25 09:48:09,567 - WARNING - Service Display Name: Diagnostic Service Host
+2024-05-25 09:48:09,568 - WARNING - Process ID: 0
+2024-05-25 09:48:09,569 - WARNING - Description: The Diagnostic Service Host is used by the Diagnostic Policy Service to host diagnostics that need to run in a Local Service context.  If this service is stopped, any diagnostics that depend on it will no longer function.
+2024-05-25 09:48:09,569 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalService -p
+2024-05-25 09:48:09,569 - WARNING - State: Stopped
+2024-05-25 09:48:09,570 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,571 - WARNING - Install Date: None
+2024-05-25 09:48:09,572 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,572 - WARNING - ----------
+2024-05-25 09:48:09,579 - WARNING - Risky Service Detected: WdNisSvc
+2024-05-25 09:48:09,580 - WARNING - Service Display Name: Microsoft Defender Antivirus Network Inspection Service
+2024-05-25 09:48:09,581 - WARNING - Process ID: 0
+2024-05-25 09:48:09,582 - WARNING - Description: Helps guard against intrusion attempts targeting known and newly discovered vulnerabilities in network protocols
+2024-05-25 09:48:09,582 - WARNING - Executable Path: "C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24040.4-0\NisSrv.exe"
+2024-05-25 09:48:09,582 - WARNING - State: Stopped
+2024-05-25 09:48:09,583 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,584 - WARNING - Install Date: None
+2024-05-25 09:48:09,585 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,585 - WARNING - ----------
+2024-05-25 09:48:09,588 - WARNING - Risky Service Detected: WebClient
+2024-05-25 09:48:09,589 - WARNING - Service Display Name: WebClient
+2024-05-25 09:48:09,591 - WARNING - Process ID: 0
+2024-05-25 09:48:09,594 - WARNING - Description: Enables Windows-based programs to create, access, and modify Internet-based files. If this service is stopped, these functions will not be available. If this service is disabled, any services that explicitly depend on it will fail to start.
+2024-05-25 09:48:09,594 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2024-05-25 09:48:09,594 - WARNING - State: Stopped
+2024-05-25 09:48:09,597 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,599 - WARNING - Install Date: None
+2024-05-25 09:48:09,600 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,601 - WARNING - ----------
+2024-05-25 09:48:09,612 - WARNING - Risky Service Detected: Wecsvc
+2024-05-25 09:48:09,615 - WARNING - Service Display Name: Windows Event Collector
+2024-05-25 09:48:09,616 - WARNING - Process ID: 0
+2024-05-25 09:48:09,618 - WARNING - Description: This service manages persistent subscriptions to events from remote sources that support WS-Management protocol. This includes Windows Vista event logs, hardware and IPMI-enabled event sources. The service stores forwarded events in a local Event Log. If this service is stopped or disabled event subscriptions cannot be created and forwarded events cannot be accepted.
+2024-05-25 09:48:09,618 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k NetworkService -p
+2024-05-25 09:48:09,618 - WARNING - State: Stopped
+2024-05-25 09:48:09,620 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,621 - WARNING - Install Date: None
+2024-05-25 09:48:09,622 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,622 - WARNING - ----------
+2024-05-25 09:48:09,625 - WARNING - Risky Service Detected: WEPHOSTSVC
+2024-05-25 09:48:09,626 - WARNING - Service Display Name: Windows Encryption Provider Host Service
+2024-05-25 09:48:09,628 - WARNING - Process ID: 0
+2024-05-25 09:48:09,629 - WARNING - Description: Windows Encryption Provider Host Service brokers encryption related functionalities from 3rd Party Encryption Providers to processes that need to evaluate and apply EAS policies. Stopping this will compromise EAS compliancy checks that have been established by the connected Mail Accounts
+2024-05-25 09:48:09,630 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k WepHostSvcGroup
+2024-05-25 09:48:09,630 - WARNING - State: Stopped
+2024-05-25 09:48:09,631 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,632 - WARNING - Install Date: None
+2024-05-25 09:48:09,633 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,633 - WARNING - ----------
+2024-05-25 09:48:09,635 - WARNING - Risky Service Detected: wercplsupport
+2024-05-25 09:48:09,636 - WARNING - Service Display Name: Problem Reports Control Panel Support
+2024-05-25 09:48:09,637 - WARNING - Process ID: 0
+2024-05-25 09:48:09,638 - WARNING - Description: This service provides support for viewing, sending and deletion of system-level problem reports for the Problem Reports control panel.
+2024-05-25 09:48:09,638 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:09,638 - WARNING - State: Stopped
+2024-05-25 09:48:09,639 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,641 - WARNING - Install Date: None
+2024-05-25 09:48:09,642 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,642 - WARNING - ----------
+2024-05-25 09:48:09,645 - WARNING - Risky Service Detected: WerSvc
+2024-05-25 09:48:09,646 - WARNING - Service Display Name: Windows Error Reporting Service
+2024-05-25 09:48:09,647 - WARNING - Process ID: 0
+2024-05-25 09:48:09,648 - WARNING - Description: Allows errors to be reported when programs stop working or responding and allows existing solutions to be delivered. Also allows logs to be generated for diagnostic and repair services. If this service is stopped, error reporting might not work correctly and results of diagnostic services and repairs might not be displayed.
+2024-05-25 09:48:09,648 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k WerSvcGroup
+2024-05-25 09:48:09,648 - WARNING - State: Stopped
+2024-05-25 09:48:09,650 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,651 - WARNING - Install Date: None
+2024-05-25 09:48:09,652 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,652 - WARNING - ----------
+2024-05-25 09:48:09,655 - WARNING - Risky Service Detected: WFDSConMgrSvc
+2024-05-25 09:48:09,656 - WARNING - Service Display Name: Wi-Fi Direct Services Connection Manager Service
+2024-05-25 09:48:09,657 - WARNING - Process ID: 0
+2024-05-25 09:48:09,658 - WARNING - Description: Manages connections to wireless services, including wireless display and docking.
+2024-05-25 09:48:09,658 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+2024-05-25 09:48:09,658 - WARNING - State: Stopped
+2024-05-25 09:48:09,659 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,660 - WARNING - Install Date: None
+2024-05-25 09:48:09,661 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,661 - WARNING - ----------
+2024-05-25 09:48:09,664 - WARNING - Risky Service Detected: WiaRpc
+2024-05-25 09:48:09,665 - WARNING - Service Display Name: Still Image Acquisition Events
+2024-05-25 09:48:09,666 - WARNING - Process ID: 0
+2024-05-25 09:48:09,667 - WARNING - Description: Launches applications associated with still image acquisition events.
+2024-05-25 09:48:09,667 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:09,667 - WARNING - State: Stopped
+2024-05-25 09:48:09,668 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,669 - WARNING - Install Date: None
+2024-05-25 09:48:09,670 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,670 - WARNING - ----------
+2024-05-25 09:48:09,673 - WARNING - Risky Service Detected: WinDefend
+2024-05-25 09:48:09,674 - WARNING - Service Display Name: Microsoft Defender Antivirus Service
+2024-05-25 09:48:09,675 - WARNING - Process ID: 0
+2024-05-25 09:48:09,676 - WARNING - Description: Helps protect users from malware and other potentially unwanted software
+2024-05-25 09:48:09,676 - WARNING - Executable Path: "C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24040.4-0\MsMpEng.exe"
+2024-05-25 09:48:09,676 - WARNING - State: Stopped
+2024-05-25 09:48:09,677 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,678 - WARNING - Install Date: None
+2024-05-25 09:48:09,679 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,679 - WARNING - ----------
+2024-05-25 09:48:09,689 - WARNING - Risky Service Detected: WinRM
+2024-05-25 09:48:09,690 - WARNING - Service Display Name: Windows Remote Management (WS-Management)
+2024-05-25 09:48:09,692 - WARNING - Process ID: 0
+2024-05-25 09:48:09,693 - WARNING - Description: Windows Remote Management (WinRM) service implements the WS-Management protocol for remote management. WS-Management is a standard web services protocol used for remote software and hardware management. The WinRM service listens on the network for WS-Management requests and processes them. The WinRM Service needs to be configured with a listener using winrm.cmd command line tool or through Group Policy in order for it to listen over the network. The WinRM service provides access to WMI data and enables event collection. Event collection and subscription to events require that the service is running. WinRM messages use HTTP and HTTPS as transports. The WinRM service does not depend on IIS but is preconfigured to share a port with IIS on the same machine.  The WinRM service reserves the /wsman URL prefix. To prevent conflicts with IIS, administrators should ensure that any websites hosted on IIS do not use the /wsman URL prefix.
+2024-05-25 09:48:09,693 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k NetworkService -p
+2024-05-25 09:48:09,693 - WARNING - State: Stopped
+2024-05-25 09:48:09,694 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,695 - WARNING - Install Date: None
+2024-05-25 09:48:09,696 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,696 - WARNING - ----------
+2024-05-25 09:48:09,699 - WARNING - Risky Service Detected: wisvc
+2024-05-25 09:48:09,700 - WARNING - Service Display Name: Windows Insider Service
+2024-05-25 09:48:09,701 - WARNING - Process ID: 0
+2024-05-25 09:48:09,702 - WARNING - Description: Provides infrastructure support for the Windows Insider Program. This service must remain enabled for the Windows Insider Program to work.
+2024-05-25 09:48:09,702 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:09,702 - WARNING - State: Stopped
+2024-05-25 09:48:09,703 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,703 - WARNING - Install Date: None
+2024-05-25 09:48:09,704 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,704 - WARNING - ----------
+2024-05-25 09:48:09,715 - WARNING - Risky Service Detected: wlpasvc
+2024-05-25 09:48:09,716 - WARNING - Service Display Name: Local Profile Assistant Service
+2024-05-25 09:48:09,718 - WARNING - Process ID: 0
+2024-05-25 09:48:09,719 - WARNING - Description: This service provides profile management for subscriber identity modules
+2024-05-25 09:48:09,719 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+2024-05-25 09:48:09,719 - WARNING - State: Stopped
+2024-05-25 09:48:09,720 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,720 - WARNING - Install Date: None
+2024-05-25 09:48:09,721 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,721 - WARNING - ----------
+2024-05-25 09:48:09,724 - WARNING - Risky Service Detected: WManSvc
+2024-05-25 09:48:09,725 - WARNING - Service Display Name: Windows Management Service
+2024-05-25 09:48:09,726 - WARNING - Process ID: 0
+2024-05-25 09:48:09,727 - WARNING - Description: Performs management including Provisioning and Enrollment activities
+2024-05-25 09:48:09,727 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:09,727 - WARNING - State: Stopped
+2024-05-25 09:48:09,728 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,729 - WARNING - Install Date: None
+2024-05-25 09:48:09,730 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,730 - WARNING - ----------
+2024-05-25 09:48:09,733 - WARNING - Risky Service Detected: wmiApSrv
+2024-05-25 09:48:09,734 - WARNING - Service Display Name: WMI Performance Adapter
+2024-05-25 09:48:09,735 - WARNING - Process ID: 0
+2024-05-25 09:48:09,736 - WARNING - Description: Provides performance library information from Windows Management Instrumentation (WMI) providers to clients on the network. This service only runs when Performance Data Helper is activated.
+2024-05-25 09:48:09,736 - WARNING - Executable Path: C:\WINDOWS\system32\wbem\WmiApSrv.exe
+2024-05-25 09:48:09,736 - WARNING - State: Stopped
+2024-05-25 09:48:09,737 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,738 - WARNING - Install Date: None
+2024-05-25 09:48:09,739 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,739 - WARNING - ----------
+2024-05-25 09:48:09,746 - WARNING - Risky Service Detected: WMPNetworkSvc
+2024-05-25 09:48:09,747 - WARNING - Service Display Name: Windows Media Player Network Sharing Service
+2024-05-25 09:48:09,748 - WARNING - Process ID: 0
+2024-05-25 09:48:09,749 - WARNING - Description: Shares Windows Media Player libraries to other networked players and media devices using Universal Plug and Play
+2024-05-25 09:48:09,749 - WARNING - Executable Path: "C:\Program Files\Windows Media Player\wmpnetwk.exe"
+2024-05-25 09:48:09,749 - WARNING - State: Stopped
+2024-05-25 09:48:09,750 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,751 - WARNING - Install Date: None
+2024-05-25 09:48:09,752 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,752 - WARNING - ----------
+2024-05-25 09:48:09,755 - WARNING - Risky Service Detected: workfolderssvc
+2024-05-25 09:48:09,756 - WARNING - Service Display Name: Work Folders
+2024-05-25 09:48:09,757 - WARNING - Process ID: 0
+2024-05-25 09:48:09,758 - WARNING - Description: This service syncs files with the Work Folders server, enabling you to use the files on any of the PCs and devices on which you've set up Work Folders.
+2024-05-25 09:48:09,758 - WARNING - Executable Path: C:\WINDOWS\System32\svchost.exe -k LocalService -p
+2024-05-25 09:48:09,758 - WARNING - State: Stopped
+2024-05-25 09:48:09,759 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,759 - WARNING - Install Date: None
+2024-05-25 09:48:09,760 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,760 - WARNING - ----------
+2024-05-25 09:48:09,763 - WARNING - Risky Service Detected: WpcMonSvc
+2024-05-25 09:48:09,764 - WARNING - Service Display Name: Parental Controls
+2024-05-25 09:48:09,765 - WARNING - Process ID: 0
+2024-05-25 09:48:09,766 - WARNING - Description: Enforces parental controls for child accounts in Windows. If this service is stopped or disabled, parental controls may not be enforced.
+2024-05-25 09:48:09,766 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalService
+2024-05-25 09:48:09,766 - WARNING - State: Stopped
+2024-05-25 09:48:09,767 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,768 - WARNING - Install Date: None
+2024-05-25 09:48:09,769 - WARNING - Service Type: Own Process
+2024-05-25 09:48:09,769 - WARNING - ----------
+2024-05-25 09:48:09,772 - WARNING - Risky Service Detected: WPDBusEnum
+2024-05-25 09:48:09,773 - WARNING - Service Display Name: Portable Device Enumerator Service
+2024-05-25 09:48:09,773 - WARNING - Process ID: 0
+2024-05-25 09:48:09,774 - WARNING - Description: Enforces group policy for removable mass-storage devices. Enables applications such as Windows Media Player and Image Import Wizard to transfer and synchronize content using removable mass-storage devices.
+2024-05-25 09:48:09,774 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted
+2024-05-25 09:48:09,774 - WARNING - State: Stopped
+2024-05-25 09:48:09,775 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,776 - WARNING - Install Date: None
+2024-05-25 09:48:09,777 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,777 - WARNING - ----------
+2024-05-25 09:48:09,792 - WARNING - Risky Service Detected: WslInstaller
+2024-05-25 09:48:09,793 - WARNING - Service Display Name: Windows Subsystem for Linux
+2024-05-25 09:48:09,794 - WARNING - Process ID: 0
+2024-05-25 09:48:09,795 - WARNING - Description: Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
+2024-05-25 09:48:09,795 - WARNING - Executable Path: "C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_2.0.14.0_x64__8wekyb3d8bbwe\wslinstaller.exe"
+2024-05-25 09:48:09,795 - WARNING - State: Stopped
+2024-05-25 09:48:09,796 - WARNING - Start Mode: Auto
+2024-05-25 09:48:09,797 - WARNING - Install Date: None
+2024-05-25 09:48:09,798 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,798 - WARNING - ----------
+2024-05-25 09:48:09,809 - WARNING - Risky Service Detected: WwanSvc
+2024-05-25 09:48:09,810 - WARNING - Service Display Name: WWAN AutoConfig
+2024-05-25 09:48:09,811 - WARNING - Process ID: 0
+2024-05-25 09:48:09,812 - WARNING - Description: This service manages mobile broadband (GSM & CDMA) data card/embedded module adapters and connections by auto-configuring the networks. It is strongly recommended that this service be kept running for best user experience of mobile broadband devices.
+2024-05-25 09:48:09,812 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2024-05-25 09:48:09,812 - WARNING - State: Stopped
+2024-05-25 09:48:09,813 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,813 - WARNING - Install Date: None
+2024-05-25 09:48:09,814 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,814 - WARNING - ----------
+2024-05-25 09:48:09,817 - WARNING - Risky Service Detected: XblAuthManager
+2024-05-25 09:48:09,818 - WARNING - Service Display Name: Xbox Live Auth Manager
+2024-05-25 09:48:09,819 - WARNING - Process ID: 0
+2024-05-25 09:48:09,821 - WARNING - Description: Provides authentication and authorization services for interacting with Xbox Live. If this service is stopped, some applications may not operate correctly.
+2024-05-25 09:48:09,821 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:09,821 - WARNING - State: Stopped
+2024-05-25 09:48:09,822 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,823 - WARNING - Install Date: None
+2024-05-25 09:48:09,824 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,824 - WARNING - ----------
+2024-05-25 09:48:09,827 - WARNING - Risky Service Detected: XblGameSave
+2024-05-25 09:48:09,828 - WARNING - Service Display Name: Xbox Live Game Save
+2024-05-25 09:48:09,829 - WARNING - Process ID: 0
+2024-05-25 09:48:09,830 - WARNING - Description: This service syncs save data for Xbox Live save enabled games.  If this service is stopped, game save data will not upload to or download from Xbox Live.
+2024-05-25 09:48:09,830 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:09,830 - WARNING - State: Stopped
+2024-05-25 09:48:09,831 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,832 - WARNING - Install Date: None
+2024-05-25 09:48:09,833 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,833 - WARNING - ----------
+2024-05-25 09:48:09,836 - WARNING - Risky Service Detected: XboxGipSvc
+2024-05-25 09:48:09,837 - WARNING - Service Display Name: Xbox Accessory Management Service
+2024-05-25 09:48:09,838 - WARNING - Process ID: 0
+2024-05-25 09:48:09,839 - WARNING - Description: This service manages connected Xbox Accessories.
+2024-05-25 09:48:09,839 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:09,839 - WARNING - State: Stopped
+2024-05-25 09:48:09,840 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,840 - WARNING - Install Date: None
+2024-05-25 09:48:09,841 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,841 - WARNING - ----------
+2024-05-25 09:48:09,844 - WARNING - Risky Service Detected: XboxNetApiSvc
+2024-05-25 09:48:09,845 - WARNING - Service Display Name: Xbox Live Networking Service
+2024-05-25 09:48:09,846 - WARNING - Process ID: 0
+2024-05-25 09:48:09,847 - WARNING - Description: This service supports the Windows.Networking.XboxLive application programming interface.
+2024-05-25 09:48:09,847 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k netsvcs -p
+2024-05-25 09:48:09,848 - WARNING - State: Stopped
+2024-05-25 09:48:09,848 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,849 - WARNING - Install Date: None
+2024-05-25 09:48:09,850 - WARNING - Service Type: Share Process
+2024-05-25 09:48:09,850 - WARNING - ----------
+2024-05-25 09:48:09,853 - WARNING - Risky Service Detected: AarSvc_3f513
+2024-05-25 09:48:09,854 - WARNING - Service Display Name: AarSvc_3f513
+2024-05-25 09:48:09,855 - WARNING - Process ID: 0
+2024-05-25 09:48:09,856 - WARNING - Description: Runtime for activating conversational agent applications
+2024-05-25 09:48:09,856 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p
+2024-05-25 09:48:09,856 - WARNING - State: Stopped
+2024-05-25 09:48:09,857 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,858 - WARNING - Install Date: None
+2024-05-25 09:48:09,859 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,859 - WARNING - ----------
+2024-05-25 09:48:09,863 - WARNING - Risky Service Detected: BcastDVRUserService_3f513
+2024-05-25 09:48:09,864 - WARNING - Service Display Name: BcastDVRUserService_3f513
+2024-05-25 09:48:09,865 - WARNING - Process ID: 0
+2024-05-25 09:48:09,866 - WARNING - Description: This user service is used for Game Recordings and Live Broadcasts
+2024-05-25 09:48:09,866 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService
+2024-05-25 09:48:09,866 - WARNING - State: Stopped
+2024-05-25 09:48:09,867 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,868 - WARNING - Install Date: None
+2024-05-25 09:48:09,869 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,869 - WARNING - ----------
+2024-05-25 09:48:09,875 - WARNING - Risky Service Detected: CaptureService_3f513
+2024-05-25 09:48:09,876 - WARNING - Service Display Name: CaptureService_3f513
+2024-05-25 09:48:09,877 - WARNING - Process ID: 0
+2024-05-25 09:48:09,878 - WARNING - Description: Enables optional screen capture functionality for applications that call the Windows.Graphics.Capture API.
+2024-05-25 09:48:09,878 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2024-05-25 09:48:09,878 - WARNING - State: Stopped
+2024-05-25 09:48:09,879 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,880 - WARNING - Install Date: None
+2024-05-25 09:48:09,881 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,881 - WARNING - ----------
+2024-05-25 09:48:09,892 - WARNING - Risky Service Detected: CloudBackupRestoreSvc_3f513
+2024-05-25 09:48:09,893 - WARNING - Service Display Name: CloudBackupRestoreSvc_3f513
+2024-05-25 09:48:09,894 - WARNING - Process ID: 0
+2024-05-25 09:48:09,895 - WARNING - Description: Monitors the system for changes in application and setting states and performs cloud backup and restore operations when required.
+2024-05-25 09:48:09,895 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2024-05-25 09:48:09,895 - WARNING - State: Stopped
+2024-05-25 09:48:09,896 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,897 - WARNING - Install Date: None
+2024-05-25 09:48:09,898 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,898 - WARNING - ----------
+2024-05-25 09:48:09,901 - WARNING - Risky Service Detected: ConsentUxUserSvc_3f513
+2024-05-25 09:48:09,902 - WARNING - Service Display Name: ConsentUxUserSvc_3f513
+2024-05-25 09:48:09,903 - WARNING - Process ID: 0
+2024-05-25 09:48:09,904 - WARNING - Description: Allows the system to request user consent to allow apps to access sensitive resources and information such as the device's location
+2024-05-25 09:48:09,904 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2024-05-25 09:48:09,904 - WARNING - State: Stopped
+2024-05-25 09:48:09,905 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,906 - WARNING - Install Date: None
+2024-05-25 09:48:09,906 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,906 - WARNING - ----------
+2024-05-25 09:48:09,909 - WARNING - Risky Service Detected: CredentialEnrollmentManagerUserSvc_3f513
+2024-05-25 09:48:09,910 - WARNING - Service Display Name: CredentialEnrollmentManagerUserSvc_3f513
+2024-05-25 09:48:09,911 - WARNING - Process ID: 0
+2024-05-25 09:48:09,912 - WARNING - Description: Credential Enrollment Manager
+2024-05-25 09:48:09,912 - WARNING - Executable Path: C:\WINDOWS\system32\CredentialEnrollmentManager.exe
+2024-05-25 09:48:09,912 - WARNING - State: Stopped
+2024-05-25 09:48:09,913 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,914 - WARNING - Install Date: None
+2024-05-25 09:48:09,915 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,915 - WARNING - ----------
+2024-05-25 09:48:09,919 - WARNING - Risky Service Detected: DeviceAssociationBrokerSvc_3f513
+2024-05-25 09:48:09,920 - WARNING - Service Display Name: DeviceAssociationBrokerSvc_3f513
+2024-05-25 09:48:09,921 - WARNING - Process ID: 0
+2024-05-25 09:48:09,922 - WARNING - Description: Enables apps to pair devices
+2024-05-25 09:48:09,922 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k DevicesFlow -p
+2024-05-25 09:48:09,922 - WARNING - State: Stopped
+2024-05-25 09:48:09,923 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,924 - WARNING - Install Date: None
+2024-05-25 09:48:09,925 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,925 - WARNING - ----------
+2024-05-25 09:48:09,928 - WARNING - Risky Service Detected: DevicePickerUserSvc_3f513
+2024-05-25 09:48:09,929 - WARNING - Service Display Name: DevicePickerUserSvc_3f513
+2024-05-25 09:48:09,929 - WARNING - Process ID: 0
+2024-05-25 09:48:09,931 - WARNING - Description: This user service is used for managing the Miracast, DLNA, and DIAL UI
+2024-05-25 09:48:09,931 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2024-05-25 09:48:09,931 - WARNING - State: Stopped
+2024-05-25 09:48:09,933 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,935 - WARNING - Install Date: None
+2024-05-25 09:48:09,937 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,937 - WARNING - ----------
+2024-05-25 09:48:09,950 - WARNING - Risky Service Detected: MessagingService_3f513
+2024-05-25 09:48:09,951 - WARNING - Service Display Name: MessagingService_3f513
+2024-05-25 09:48:09,952 - WARNING - Process ID: 0
+2024-05-25 09:48:09,953 - WARNING - Description: Service supporting text messaging and related functionality.
+2024-05-25 09:48:09,953 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2024-05-25 09:48:09,953 - WARNING - State: Stopped
+2024-05-25 09:48:09,954 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,955 - WARNING - Install Date: None
+2024-05-25 09:48:09,956 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,956 - WARNING - ----------
+2024-05-25 09:48:09,966 - WARNING - Risky Service Detected: P9RdrService_3f513
+2024-05-25 09:48:09,967 - WARNING - Service Display Name: P9RdrService_3f513
+2024-05-25 09:48:09,968 - WARNING - Process ID: 0
+2024-05-25 09:48:09,969 - WARNING - Description: Enables trigger-starting plan9 file servers.
+2024-05-25 09:48:09,969 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k P9RdrService -p
+2024-05-25 09:48:09,969 - WARNING - State: Stopped
+2024-05-25 09:48:09,970 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,971 - WARNING - Install Date: None
+2024-05-25 09:48:09,972 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,972 - WARNING - ----------
+2024-05-25 09:48:09,975 - WARNING - Risky Service Detected: PenService_3f513
+2024-05-25 09:48:09,975 - WARNING - Service Display Name: PenService_3f513
+2024-05-25 09:48:09,976 - WARNING - Process ID: 0
+2024-05-25 09:48:09,977 - WARNING - Description: Pen Service
+2024-05-25 09:48:09,977 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k PenService
+2024-05-25 09:48:09,977 - WARNING - State: Stopped
+2024-05-25 09:48:09,979 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,980 - WARNING - Install Date: None
+2024-05-25 09:48:09,981 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,981 - WARNING - ----------
+2024-05-25 09:48:09,988 - WARNING - Risky Service Detected: PrintWorkflowUserSvc_3f513
+2024-05-25 09:48:09,989 - WARNING - Service Display Name: PrintWorkflowUserSvc_3f513
+2024-05-25 09:48:09,990 - WARNING - Process ID: 0
+2024-05-25 09:48:09,991 - WARNING - Description: Provides support for Print Workflow applications. If you turn off this service, you may not be able to print successfully.
+2024-05-25 09:48:09,991 - WARNING - Executable Path: C:\WINDOWS\system32\svchost.exe -k PrintWorkflow
+2024-05-25 09:48:09,991 - WARNING - State: Stopped
+2024-05-25 09:48:09,992 - WARNING - Start Mode: Manual
+2024-05-25 09:48:09,993 - WARNING - Install Date: None
+2024-05-25 09:48:09,994 - WARNING - Service Type: Unknown
+2024-05-25 09:48:09,994 - WARNING - ----------

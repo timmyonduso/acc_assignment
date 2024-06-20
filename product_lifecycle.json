@@ -1,0 +1,22 @@
+{
+    "Windows 10": {
+        "end_of_support": "2025-10-14",
+        "end_of_life": "2025-10-14",
+        "update_frequency": "Semi-Annual"
+    },
+    "Windows 11": {
+        "end_of_support": "2026-10-14",
+        "end_of_life": "2026-10-14",
+        "update_frequency": "Annual"
+    },
+    "Microsoft Office 2019": {
+        "end_of_support": "2025-10-10",
+        "end_of_life": "2025-10-10",
+        "update_frequency": "Monthly"
+    },
+    "Example Firmware": {
+        "end_of_support": "2023-12-31",
+        "end_of_life": "2024-12-31",
+        "update_frequency": "As Needed"
+    }
+}

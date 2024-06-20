@@ -1,0 +1,201 @@
+2024-05-25 10:00:21,126 - INFO - Scanning processes...
+2024-05-25 10:00:25,073 - WARNING - Risky Process Detected: System
+2024-05-25 10:00:25,073 - WARNING - Process ID: 4
+2024-05-25 10:00:25,073 - WARNING - Handle Count: 5607
+2024-05-25 10:00:25,074 - WARNING - Executable Path: None
+2024-05-25 10:00:25,074 - WARNING - Working Set Size: 7606272
+2024-05-25 10:00:25,074 - WARNING - Parent Process ID: 0
+2024-05-25 10:00:25,075 - WARNING - Command Line: None
+2024-05-25 10:00:25,075 - WARNING - Reasons:
+2024-05-25 10:00:25,076 - WARNING -   - Handle count 5607 exceeds the threshold of 1000.
+2024-05-25 10:00:25,076 - WARNING - ----------
+2024-05-25 10:00:25,121 - WARNING - Risky Process Detected: lsass.exe
+2024-05-25 10:00:25,121 - WARNING - Process ID: 1168
+2024-05-25 10:00:25,121 - WARNING - Handle Count: 1829
+2024-05-25 10:00:25,121 - WARNING - Executable Path: None
+2024-05-25 10:00:25,121 - WARNING - Working Set Size: 31506432
+2024-05-25 10:00:25,122 - WARNING - Parent Process ID: 716
+2024-05-25 10:00:25,123 - WARNING - Command Line: None
+2024-05-25 10:00:25,123 - WARNING - Reasons:
+2024-05-25 10:00:25,123 - WARNING -   - Handle count 1829 exceeds the threshold of 1000.
+2024-05-25 10:00:25,123 - WARNING - ----------
+2024-05-25 10:00:25,128 - WARNING - Risky Process Detected: svchost.exe
+2024-05-25 10:00:25,128 - WARNING - Process ID: 1312
+2024-05-25 10:00:25,128 - WARNING - Handle Count: 1466
+2024-05-25 10:00:25,128 - WARNING - Executable Path: None
+2024-05-25 10:00:25,128 - WARNING - Working Set Size: 33779712
+2024-05-25 10:00:25,129 - WARNING - Parent Process ID: 1112
+2024-05-25 10:00:25,130 - WARNING - Command Line: None
+2024-05-25 10:00:25,130 - WARNING - Reasons:
+2024-05-25 10:00:25,130 - WARNING -   - Handle count 1466 exceeds the threshold of 1000.
+2024-05-25 10:00:25,130 - WARNING - ----------
+2024-05-25 10:00:25,148 - WARNING - Risky Process Detected: svchost.exe
+2024-05-25 10:00:25,148 - WARNING - Process ID: 1484
+2024-05-25 10:00:25,149 - WARNING - Handle Count: 1578
+2024-05-25 10:00:25,149 - WARNING - Executable Path: None
+2024-05-25 10:00:25,149 - WARNING - Working Set Size: 16314368
+2024-05-25 10:00:25,150 - WARNING - Parent Process ID: 1112
+2024-05-25 10:00:25,151 - WARNING - Command Line: None
+2024-05-25 10:00:25,151 - WARNING - Reasons:
+2024-05-25 10:00:25,151 - WARNING -   - Handle count 1578 exceeds the threshold of 1000.
+2024-05-25 10:00:25,151 - WARNING - ----------
+2024-05-25 10:00:25,161 - WARNING - Risky Process Detected: dwm.exe
+2024-05-25 10:00:25,161 - WARNING - Process ID: 1600
+2024-05-25 10:00:25,161 - WARNING - Handle Count: 1478
+2024-05-25 10:00:25,161 - WARNING - Executable Path: None
+2024-05-25 10:00:25,161 - WARNING - Working Set Size: 119250944
+2024-05-25 10:00:25,162 - WARNING - Parent Process ID: 1040
+2024-05-25 10:00:25,163 - WARNING - Command Line: None
+2024-05-25 10:00:25,163 - WARNING - Reasons:
+2024-05-25 10:00:25,163 - WARNING -   - Handle count 1478 exceeds the threshold of 1000.
+2024-05-25 10:00:25,163 - WARNING - ----------
+2024-05-25 10:00:25,213 - WARNING - Risky Process Detected: svchost.exe
+2024-05-25 10:00:25,213 - WARNING - Process ID: 1212
+2024-05-25 10:00:25,213 - WARNING - Handle Count: 1171
+2024-05-25 10:00:25,213 - WARNING - Executable Path: None
+2024-05-25 10:00:25,213 - WARNING - Working Set Size: 20168704
+2024-05-25 10:00:25,214 - WARNING - Parent Process ID: 1112
+2024-05-25 10:00:25,215 - WARNING - Command Line: None
+2024-05-25 10:00:25,215 - WARNING - Reasons:
+2024-05-25 10:00:25,215 - WARNING -   - Handle count 1171 exceeds the threshold of 1000.
+2024-05-25 10:00:25,215 - WARNING - ----------
+2024-05-25 10:00:25,580 - WARNING - Risky Process Detected: avp.exe
+2024-05-25 10:00:25,580 - WARNING - Process ID: 6864
+2024-05-25 10:00:25,580 - WARNING - Handle Count: 4733
+2024-05-25 10:00:25,580 - WARNING - Executable Path: None
+2024-05-25 10:00:25,580 - WARNING - Working Set Size: 240570368
+2024-05-25 10:00:25,581 - WARNING - Parent Process ID: 1112
+2024-05-25 10:00:25,582 - WARNING - Command Line: None
+2024-05-25 10:00:25,582 - WARNING - Reasons:
+2024-05-25 10:00:25,582 - WARNING -   - Handle count 4733 exceeds the threshold of 1000.
+2024-05-25 10:00:25,582 - WARNING - ----------
+2024-05-25 10:00:25,638 - WARNING - Risky Process Detected: explorer.exe
+2024-05-25 10:00:25,638 - WARNING - Process ID: 7396
+2024-05-25 10:00:25,638 - WARNING - Handle Count: 6469
+2024-05-25 10:00:25,638 - WARNING - Executable Path: C:\WINDOWS\Explorer.EXE
+2024-05-25 10:00:25,638 - WARNING - Working Set Size: 269873152
+2024-05-25 10:00:25,639 - WARNING - Parent Process ID: 5852
+2024-05-25 10:00:25,640 - WARNING - Command Line: C:\WINDOWS\Explorer.EXE
+2024-05-25 10:00:25,640 - WARNING - Reasons:
+2024-05-25 10:00:25,640 - WARNING -   - Handle count 6469 exceeds the threshold of 1000.
+2024-05-25 10:00:25,640 - WARNING - ----------
+2024-05-25 10:00:25,699 - WARNING - Risky Process Detected: SearchHost.exe
+2024-05-25 10:00:25,699 - WARNING - Process ID: 9312
+2024-05-25 10:00:25,699 - WARNING - Handle Count: 1598
+2024-05-25 10:00:25,699 - WARNING - Executable Path: C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+2024-05-25 10:00:25,699 - WARNING - Working Set Size: 35463168
+2024-05-25 10:00:25,700 - WARNING - Parent Process ID: 1312
+2024-05-25 10:00:25,701 - WARNING - Command Line: "C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca
+2024-05-25 10:00:25,701 - WARNING - Reasons:
+2024-05-25 10:00:25,701 - WARNING -   - Handle count 1598 exceeds the threshold of 1000.
+2024-05-25 10:00:25,701 - WARNING - ----------
+2024-05-25 10:00:25,742 - WARNING - Risky Process Detected: dllhost.exe
+2024-05-25 10:00:25,742 - WARNING - Process ID: 11284
+2024-05-25 10:00:25,742 - WARNING - Handle Count: 2897
+2024-05-25 10:00:25,742 - WARNING - Executable Path: C:\WINDOWS\system32\DllHost.exe
+2024-05-25 10:00:25,742 - WARNING - Working Set Size: 16756736
+2024-05-25 10:00:25,743 - WARNING - Parent Process ID: 1312
+2024-05-25 10:00:25,744 - WARNING - Command Line: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+2024-05-25 10:00:25,744 - WARNING - Reasons:
+2024-05-25 10:00:25,744 - WARNING -   - Handle count 2897 exceeds the threshold of 1000.
+2024-05-25 10:00:25,744 - WARNING - ----------
+2024-05-25 10:00:25,748 - ERROR - Unexpected error when checking process 11416: '>' not supported between instances of 'str' and 'int'
+2024-05-25 10:00:25,748 - WARNING - Risky Process Detected: msedgewebview2.exe
+2024-05-25 10:00:25,748 - WARNING - Process ID: 11416
+2024-05-25 10:00:25,748 - WARNING - Handle Count: 1142
+2024-05-25 10:00:25,748 - WARNING - Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\124.0.2478.97\msedgewebview2.exe
+2024-05-25 10:00:25,748 - WARNING - Working Set Size: 84275200
+2024-05-25 10:00:25,749 - WARNING - Parent Process ID: 9960
+2024-05-25 10:00:25,750 - WARNING - Command Line: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\124.0.2478.97\msedgewebview2.exe" --embedded-browser-webview=1 --webview-exe-name=TeamViewer.exe --webview-exe-version=15.53.7.0 --user-data-dir="\\?\C:\Users\timmy\AppData\Local\TeamViewer\EdgeBrowserControl\Persistent\MainWindow_75AD616BF1F04DA9878FF44DD080A108\20240415T125555-cf18d192e - en\EBWebView" --noerrdialogs --embedded-browser-webview-dpi-awareness=2 --disable-features=msSmartScreenProtection,msWebOOUI,msPdfOOUI,ElasticOverscroll --enable-features=MojoIpcz --lang=en --accept-lang=en --mojo-named-platform-channel-pipe=9960.11408.4585397360988871057 /pfhostedapp:bd30f5339fcaa82e392fb86ff1500a3a4ea96330
+2024-05-25 10:00:25,750 - WARNING - Reasons:
+2024-05-25 10:00:25,750 - WARNING -   - Handle count 1142 exceeds the threshold of 1000.
+2024-05-25 10:00:25,750 - WARNING - ----------
+2024-05-25 10:00:25,783 - WARNING - Risky Process Detected: SearchIndexer.exe
+2024-05-25 10:00:25,783 - WARNING - Process ID: 12468
+2024-05-25 10:00:25,783 - WARNING - Handle Count: 1310
+2024-05-25 10:00:25,783 - WARNING - Executable Path: None
+2024-05-25 10:00:25,783 - WARNING - Working Set Size: 42618880
+2024-05-25 10:00:25,784 - WARNING - Parent Process ID: 1112
+2024-05-25 10:00:25,785 - WARNING - Command Line: None
+2024-05-25 10:00:25,785 - WARNING - Reasons:
+2024-05-25 10:00:25,785 - WARNING -   - Handle count 1310 exceeds the threshold of 1000.
+2024-05-25 10:00:25,785 - WARNING - ----------
+2024-05-25 10:00:25,843 - WARNING - Risky Process Detected: OneDrive.exe
+2024-05-25 10:00:25,843 - WARNING - Process ID: 6856
+2024-05-25 10:00:25,843 - WARNING - Handle Count: 1091
+2024-05-25 10:00:25,843 - WARNING - Executable Path: C:\Users\timmy\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+2024-05-25 10:00:25,843 - WARNING - Working Set Size: 83922944
+2024-05-25 10:00:25,844 - WARNING - Parent Process ID: 2220
+2024-05-25 10:00:25,845 - WARNING - Command Line: "C:\Users\timmy\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /client=Personal /background
+2024-05-25 10:00:25,845 - WARNING - Reasons:
+2024-05-25 10:00:25,845 - WARNING -   - Handle count 1091 exceeds the threshold of 1000.
+2024-05-25 10:00:25,845 - WARNING - ----------
+2024-05-25 10:00:25,869 - WARNING - Risky Process Detected: ShellExperienceHost.exe
+2024-05-25 10:00:25,869 - WARNING - Process ID: 8
+2024-05-25 10:00:25,869 - WARNING - Handle Count: 1327
+2024-05-25 10:00:25,869 - WARNING - Executable Path: C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+2024-05-25 10:00:25,869 - WARNING - Working Set Size: 86618112
+2024-05-25 10:00:25,870 - WARNING - Parent Process ID: 1312
+2024-05-25 10:00:25,871 - WARNING - Command Line: "C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+2024-05-25 10:00:25,871 - WARNING - Reasons:
+2024-05-25 10:00:25,871 - WARNING -   - Handle count 1327 exceeds the threshold of 1000.
+2024-05-25 10:00:25,871 - WARNING - ----------
+2024-05-25 10:00:25,919 - WARNING - Risky Process Detected: msedgewebview2.exe
+2024-05-25 10:00:25,919 - WARNING - Process ID: 13756
+2024-05-25 10:00:25,919 - WARNING - Handle Count: 1237
+2024-05-25 10:00:25,919 - WARNING - Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\124.0.2478.97\msedgewebview2.exe
+2024-05-25 10:00:25,920 - WARNING - Working Set Size: 6201344
+2024-05-25 10:00:25,921 - WARNING - Parent Process ID: 8364
+2024-05-25 10:00:25,922 - WARNING - Command Line: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\124.0.2478.97\msedgewebview2.exe" --embedded-browser-webview=1 --webview-exe-name=Widgets.exe --webview-exe-version=524.13200.30.0 --user-data-dir="C:\Users\timmy\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --noerrdialogs --disk-cache-size=52428800 --edge-webview-is-background --enable-features=MojoIpcz --lang=en-US --accept-lang=en-US --mojo-named-platform-channel-pipe=8364.13984.1866164133970575642 /pfhostedapp:b0050cd5c4ededc3651b055df6e2e77ae5c49a4b
+2024-05-25 10:00:25,922 - WARNING - Reasons:
+2024-05-25 10:00:25,922 - WARNING -   - Handle count 1237 exceeds the threshold of 1000.
+2024-05-25 10:00:25,922 - WARNING - ----------
+2024-05-25 10:00:26,005 - WARNING - Risky Process Detected: SystemSettings.exe
+2024-05-25 10:00:26,005 - WARNING - Process ID: 5064
+2024-05-25 10:00:26,005 - WARNING - Handle Count: 1300
+2024-05-25 10:00:26,005 - WARNING - Executable Path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2024-05-25 10:00:26,005 - WARNING - Working Set Size: 3371008
+2024-05-25 10:00:26,006 - WARNING - Parent Process ID: 1312
+2024-05-25 10:00:26,006 - WARNING - Command Line: "C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+2024-05-25 10:00:26,007 - WARNING - Reasons:
+2024-05-25 10:00:26,007 - WARNING -   - Handle count 1300 exceeds the threshold of 1000.
+2024-05-25 10:00:26,007 - WARNING - ----------
+2024-05-25 10:00:26,080 - WARNING - Risky Process Detected: brave.exe
+2024-05-25 10:00:26,080 - WARNING - Process ID: 18596
+2024-05-25 10:00:26,080 - WARNING - Handle Count: 2117
+2024-05-25 10:00:26,080 - WARNING - Executable Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+2024-05-25 10:00:26,081 - WARNING - Working Set Size: 220737536
+2024-05-25 10:00:26,081 - WARNING - Parent Process ID: 7396
+2024-05-25 10:00:26,082 - WARNING - Command Line: "C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" 
+2024-05-25 10:00:26,082 - WARNING - Reasons:
+2024-05-25 10:00:26,082 - WARNING -   - Handle count 2117 exceeds the threshold of 1000.
+2024-05-25 10:00:26,082 - WARNING - ----------
+2024-05-25 10:00:26,092 - WARNING - Risky Process Detected: brave.exe
+2024-05-25 10:00:26,092 - WARNING - Process ID: 17616
+2024-05-25 10:00:26,092 - WARNING - Handle Count: 1223
+2024-05-25 10:00:26,092 - WARNING - Executable Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+2024-05-25 10:00:26,092 - WARNING - Working Set Size: 165789696
+2024-05-25 10:00:26,093 - WARNING - Parent Process ID: 18596
+2024-05-25 10:00:26,094 - WARNING - Command Line: "C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" --type=gpu-process --start-stack-profiler --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1928,i,5094044792591972181,14965144431959319627,262144 --variations-seed-version=1 --mojo-platform-channel-handle=1924 /prefetch:2
+2024-05-25 10:00:26,094 - WARNING - Reasons:
+2024-05-25 10:00:26,094 - WARNING -   - Handle count 1223 exceeds the threshold of 1000.
+2024-05-25 10:00:26,094 - WARNING - ----------
+2024-05-25 10:00:26,122 - WARNING - Process ID: 10464
+2024-05-25 10:00:26,122 - WARNING - Handle Count: 1393
+2024-05-25 10:00:26,122 - WARNING - Executable Path: C:\Users\timmy\AppData\Local\Programs\PyCharm Community\bin\pycharm64.exe
+2024-05-25 10:00:26,122 - WARNING - Working Set Size: 2262040576
+2024-05-25 10:00:26,123 - WARNING - Parent Process ID: 7396
+2024-05-25 10:00:26,124 - WARNING - Command Line: "C:\Users\timmy\AppData\Local\Programs\PyCharm Community\bin\pycharm64.exe" 
+2024-05-25 10:00:26,124 - WARNING - Reasons:
+2024-05-25 10:00:26,124 - WARNING -   - Handle count 1393 exceeds the threshold of 1000.
+2024-05-25 10:00:26,124 - WARNING - ----------
+2024-05-25 10:00:26,174 - WARNING - Risky Process Detected: WINWORD.EXE
+2024-05-25 10:00:26,174 - WARNING - Process ID: 16924
+2024-05-25 10:00:26,174 - WARNING - Handle Count: 1054
+2024-05-25 10:00:26,174 - WARNING - Executable Path: C:\Program Files (x86)\Microsoft Office\Office16\WINWORD.EXE
+2024-05-25 10:00:26,174 - WARNING - Working Set Size: 79597568
+2024-05-25 10:00:26,175 - WARNING - Parent Process ID: 7396
+2024-05-25 10:00:26,176 - WARNING - Command Line: "C:\Program Files (x86)\Microsoft Office\Office16\WINWORD.EXE" /n "C:\Users\timmy\Documents\ACC Assignment\Number 4.docx" /o ""
+2024-05-25 10:00:26,176 - WARNING - Reasons:
+2024-05-25 10:00:26,176 - WARNING -   - Handle count 1054 exceeds the threshold of 1000.
+2024-05-25 10:00:26,176 - WARNING - ----------
